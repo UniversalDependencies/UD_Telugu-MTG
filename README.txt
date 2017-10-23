@@ -7,3 +7,5 @@ Genre: grammar-examples
 Contributors: Vajjala, Sowmya; Rama, Taraka
 Contact: sowmya@iastate.edu, taraka-rama.kasicheyanula@uni-tuebingen.de
 ===============================================================================
+
+English transliteration is OCR version from the grammar book and has some typos. Telugu script is manually typed, and proofread, so that does not have those typos. 
