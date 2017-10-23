@@ -4,6 +4,6 @@ Data source: manual
 Data available since: UD v2.1
 License: CC BY-SA 4.0
 Genre: grammar-examples
-Contributors: Vajjala, Sowmya; Rama, Taraka
-Contact: sowmya@iastate.edu, tarakark@ifi.uio.no
+Contributors: Rama, Taraka; Vajjala, Sowmya
+Contact: tarakark@ifi.uio.no, sowmya@iastate.edu
 ===============================================================================
