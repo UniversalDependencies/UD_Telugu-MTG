@@ -1,0 +1,1159 @@
+# sent_id =  0
+# text =  cuusEEraNDii ?
+1	cuusEEraNDii	_	VERB	VERB	_	0	root	_	_
+2	?	_	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id =  3
+# text =  ekkaDikaNDi weLtunnaaru ?
+1	ekkaDikaNDi	_	NOUN	NOUN	_	2	obl	_	_
+2	weLtunnaaru	_	VERB	VERB	_	0	root	_	_
+3	?	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  4
+# text =  nawwaraTaNDi naluguru ?
+1	nawwaraTaNDi	_	VERB	VERB	_	0	root	_	_
+2	naluguru	_	NOUN	NOUN	_	1	nsubj	_	_
+3	?	_	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id =  20
+# text =  miiroo nenoo ii pani ceyyaali .
+1	miiroo	_	PRON	PRON	_	5	nsubj	_	_
+2	nenoo	_	PRON	PRON	_	1	conj	_	_
+3	ii	_	DET	DET	_	4	det	_	_
+4	pani	_	NOUN	NOUN	_	5	obj	_	_
+5	ceyyaali	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  33
+# text =  anta pedda pustakam cadiwEEraa ?
+1	anta	_	DET	DET	_	3	det	_	_
+2	pedda	_	ADJ	ADJ	_	3	amod	_	_
+3	pustakam	_	NOUN	NOUN	_	4	obj	_	_
+4	cadiwEEraa	_	VERB	VERB	_	0	root	_	_
+5	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  47
+# text =  waaDu kukkanu karratoo koTTEEDu .
+1	waaDu	_	PRON	PRON	_	4	nsubj	_	_
+2	kukkanu	_	NOUN	NOUN	_	4	obj	_	_
+3	karratoo	_	NOUN	NOUN	_	4	obl	_	_
+4	koTTEEDu	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  49
+# text =  neenu ame kaNTe pedda .
+1	neenu	_	PRON	PRON	_	4	nsubj	_	_
+2	ame	_	PRON	PRON	_	1	nmod:cmp	_	_
+3	kaNTe	_	ADP	ADP	_	2	case	_	_
+4	pedda	_	NOUN	NOUN	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  57
+# text =  manam annam enduku tinaTam ?
+1	manam	_	PRON	PRON	_	4	nsubj	_	_
+2	annam	_	NOUN	NOUN	_	4	obj	_	_
+3	enduku	_	ADV	ADV	_	4	advmod	_	_
+4	tinaTam	_	VERB	VERB	_	0	root	_	_
+5	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  88
+# text =  aayana ninnaneeTagadaa madraasununci waccEEru .
+1	aayana	_	PRON	PRON	_	4	nsubj	_	_
+2	ninnaneeTagadaa	_	ADV	ADV	_	4	advmod	_	_
+3	madraasununci	_	NOUN	NOUN	_	4	obl	_	_
+4	waccEEru	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  102
+# text =  neenu aayanaku ceppakuNDaa waccEEnu .
+1	neenu	_	PRON	PRON	_	4	nsubj	_	_
+2	aayanaku	_	PRON	PRON	_	3	obj	_	_
+3	ceppakuNDaa	_	VERB	VERB	_	4	advcl	_	_
+4	waccEEnu	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  105
+# text =  cuuDakuNDaa , weLLakaNDi .
+1	cuuDakuNDaa	_	VERB	VERB	_	3	advcl	_	_
+2	,	_	PUNCT	PUNCT	_	3	punct	_	_
+3	weLLakaNDi	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  131
+# text =  atanni maLLii wenakki piluddaam anukonnadi .
+1	atanni	_	PRON	PRON	_	4	obj	_	_
+2	maLLii	_	ADV	ADV	_	4	advmod	_	_
+3	wenakki	_	NOUN	NOUN	_	4	obl:tmod	_	_
+4	piluddaam	_	VERB	VERB	_	5	ccomp	_	_
+5	anukonnadi	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  147
+# text =  raamayya iNTiki teccindi mandu .
+1	raamayya	_	PROPN	PROPN	_	3	nsubj	_	_
+2	iNTiki	_	NOUN	NOUN	_	3	obl	_	_
+3	teccindi	_	VERB	VERB	_	4	acl:relcl	_	_
+4	mandu	_	NOUN	NOUN	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  149
+# text =  waaDiki aakali weestunnadi .
+1	waaDiki	_	PRON	PRON	_	3	obj	_	_
+2	aakali	_	NOUN	NOUN	_	3	nsubj	_	_
+3	weestunnadi	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  182
+# text =  pakSulu egurutaayi .
+1	pakSulu	_	NOUN	NOUN	_	2	nsubj	_	_
+2	egurutaayi	_	VERB	VERB	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  194
+# text =  kamala moguDitoo sinimaaku weLLindaa ?
+1	kamala	_	PROPN	PROPN	_	4	nsubj	_	_
+2	moguDitoo	_	NOUN	NOUN	_	4	obl	_	_
+3	sinimaaku	_	NOUN	NOUN	_	4	obl	_	_
+4	weLLindaa	_	VERB	VERB	_	0	root	_	_
+5	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  196
+# text =  kamala moguDitoonaa sinimaaku weLLindi ?
+1	kamala	_	PROPN	PROPN	_	4	nsubj	_	_
+2	moguDitoonaa	_	NOUN	NOUN	_	4	obl	_	_
+3	sinimaaku	_	NOUN	NOUN	_	4	obj	_	_
+4	weLLindi	_	VERB	VERB	_	0	root	_	_
+5	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  198
+# text =  itanu raamayya .
+1	itanu	_	PRON	PRON	_	2	nsubj	_	_
+2	raamayya	_	PROPN	PROPN	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  202
+# text =  atanu caalaa poDugu .
+1	atanu	_	PRON	PRON	_	3	nsubj	_	_
+2	caalaa	_	DET	DET	_	3	det	_	_
+3	poDugu	_	NOUN	NOUN	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  221
+# text =  miiru alaa ceppi uNDaguuDadu .
+1	miiru	_	PRON	PRON	_	4	nsubj	_	_
+2	alaa	_	ADV	ADV	_	4	advmod	_	_
+3	ceppi	_	VERB	VERB	_	4	compound:svc	_	_
+4	uNDaguuDadu	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  222
+# text =  ammaa !
+1	ammaa	_	NOUN	NOUN	_	0	root	_	_
+2	!	_	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id =  224
+# text =  taataa !
+1	taataa	_	NOUN	NOUN	_	0	root	_	_
+2	!	_	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id =  232
+# text =  ii paaTa windaam .
+1	ii	_	DET	DET	_	2	det	_	_
+2	paaTa	_	NOUN	NOUN	_	3	obj	_	_
+3	windaam	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  242
+# text =  ninna entamandi mii iNTiki waccEEru ?
+1	ninna	_	NOUN	NOUN	_	5	obl:tmod	_	_
+2	entamandi	_	NOUN	NOUN	_	5	nsubj	_	_
+3	mii	_	PRON	PRON	_	4	nmod:poss	_	_
+4	iNTiki	_	NOUN	NOUN	_	5	obl	_	_
+5	waccEEru	_	VERB	VERB	_	0	root	_	_
+6	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  243
+# text =  glEEsulao enni niiLL(u) unnaayi ?
+1	glEEsulao	_	NOUN	NOUN	_	4	obl	_	_
+2	enni	_	DET	DET	_	3	det	_	_
+3	niiLL(u)	_	NOUN	NOUN	_	4	nsubj	_	_
+4	unnaayi	_	VERB	VERB	_	0	root	_	_
+5	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  248
+# text =  miiku anni istaanu .
+1	miiku	_	PRON	PRON	_	3	iobj	_	_
+2	anni	_	DET	DET	_	3	obj	_	_
+3	istaanu	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  262
+# text =  abbaayi teccina bomma ikkaDa undi .
+1	abbaayi	_	NOUN	NOUN	_	2	nsubj	_	_
+2	teccina	_	VERB	VERB	_	3	acl:relcl	_	_
+3	bomma	_	NOUN	NOUN	_	5	nsubj	_	_
+4	ikkaDa	_	ADV	ADV	_	5	advmod	_	_
+5	undi	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  271
+# text =  neenu ceppee maaTa .
+1	neenu	_	PRON	PRON	_	2	nsubj	_	_
+2	ceppee	_	VERB	VERB	_	3	acl:relcl	_	_
+3	maaTa	_	NOUN	NOUN	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  279
+# text =  naak(u) okee ill(u) unnadi .
+1	naak(u)	_	PRON	PRON	_	4	obj	_	_
+2	okee	_	NUM	NUM	_	3	nummod	_	_
+3	ill(u)	_	NOUN	NOUN	_	4	nsubj	_	_
+4	unnadi	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  292
+# text =  ruupaayiki cEEreDu biyyam raawaTam leedu .
+1	ruupaayiki	_	NOUN	NOUN	_	5	nsubj:nc	_	_
+2	cEEreDu	_	ADJ	ADJ	_	3	amod	_	_
+3	biyyam	_	NOUN	NOUN	_	5	obj	_	_
+4	raawaTam	_	VERB	VERB	_	5	compound	_	_
+5	leedu	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  297
+# text =  miiru ceppanidee , waLLu oppukooru .
+1	miiru	_	PRON	PRON	_	2	nsubj	_	_
+2	ceppanidee	_	VERB	VERB	_	5	advcl	_	_
+3	,	_	PUNCT	PUNCT	_	5	punct	_	_
+4	waLLu	_	PRON	PRON	_	5	nsubj	_	_
+5	oppukooru	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  300
+# text =  aayana wacceeTappuDu iTu pilawaNDi .
+1	aayana	_	PRON	PRON	_	2	nsubj	_	_
+2	wacceeTappuDu	_	VERB	VERB	_	4	advcl	_	_
+3	iTu	_	ADV	ADV	_	4	advmod	_	_
+4	pilawaNDi	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  309
+# text =  miiru wacceesariki tayaarugaa uNTaanu .
+1	miiru	_	PRON	PRON	_	2	nsubj	_	_
+2	wacceesariki	_	VERB	VERB	_	4	advcl	_	_
+3	tayaarugaa	_	ADV	ADV	_	4	advmod	_	_
+4	uNTaanu	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  318
+# text =  annam tinee nooru .
+1	annam	_	NOUN	NOUN	_	2	obj	_	_
+2	tinee	_	NOUN	NOUN	_	3	acl:relcl	_	_
+3	nooru	_	NOUN	NOUN	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  322
+# text =  niiLLu tooDee baawulu maa uuLLoo muuDu unnaayi .
+1	niiLLu	_	NOUN	NOUN	_	2	obj	_	_
+2	tooDee	_	VERB	VERB	_	3	acl:relcl	_	_
+3	baawulu	_	NOUN	NOUN	_	7	nsubj	_	_
+4	maa	_	PRON	PRON	_	5	nmod	_	_
+5	uuLLoo	_	NOUN	NOUN	_	7	obl	_	_
+6	muuDu	_	NUM	NUM	_	3	orphan	_	_
+7	unnaayi	_	VERB	VERB	_	0	root	_	_
+8	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id =  324
+# text =  neenu Dabbu iccina maniSi peeru venkayya .
+1	neenu	_	PRON	PRON	_	3	nsubj	_	_
+2	Dabbu	_	NOUN	NOUN	_	3	obj	_	_
+3	iccina	_	VERB	VERB	_	4	acl:relcl	_	_
+4	maniSi	_	NOUN	NOUN	_	5	nmod:poss	_	_
+5	peeru	_	NOUN	NOUN	_	6	nsubj	_	_
+6	venkayya	_	NOUN	NOUN	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id =  331
+# text =  neenu reepu wastaanu .
+1	neenu	_	PRON	PRON	_	3	nsubj	_	_
+2	reepu	_	NOUN	NOUN	_	3	obl:tmod	_	_
+3	wastaanu	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  355
+# text =  ninna kamalaku pustakam iccindi raamu .
+1	ninna	_	NOUN	NOUN	_	4	obl:tmod	_	_
+2	kamalaku	_	PROPN	PROPN	_	4	obj	_	_
+3	pustakam	_	NOUN	NOUN	_	4	obj	_	_
+4	iccindi	_	VERB	VERB	_	5	acl	_	_
+5	raamu	_	PROPN	PROPN	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  361
+# text =  miiru uNTee gaani , neenu raanu .
+1	miiru	_	PRON	PRON	_	2	nsubj	_	_
+2	uNTee	_	VERB	VERB	_	6	advcl:cond	_	_
+3	gaani	_	SCONJ	SCONJ	_	2	mark	_	_
+4	,	_	PUNCT	PUNCT	_	6	punct	_	_
+5	neenu	_	PRON	PRON	_	6	nsubj	_	_
+6	raanu	_	VERB	VERB	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id =  362
+# text =  aayana cadiwiteeneegaani , meemu winam .
+1	aayana	_	PRON	PRON	_	2	nsubj	_	_
+2	cadiwiteeneegaani	_	VERB	VERB	_	5	advcl:cond	_	_
+3	,	_	PUNCT	PUNCT	_	5	punct	_	_
+4	meemu	_	PRON	PRON	_	5	nsubj	_	_
+5	winam	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  367
+# text =  waaDu dabadabaa weLLEEDu .
+1	waaDu	_	PRON	PRON	_	3	nsubj	_	_
+2	dabadabaa	_	ADV	ADV	_	3	advmod	_	_
+3	weLLEEDu	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  376
+# text =  maaku paaTa okaTi winaalani undi .
+1	maaku	_	PRON	PRON	_	5	nsubj:nc	_	_
+2	paaTa	_	NOUN	NOUN	_	4	obj	_	_
+3	okaTi	_	NUM	NUM	_	2	nummod	_	_
+4	winaalani	_	VERB	VERB	_	5	ccomp	_	_
+5	undi	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  383
+# text =  waaDiki appuDappuDu picci ekkutundi .
+1	waaDiki	_	PRON	PRON	_	4	nsubj	_	_
+2	appuDappuDu	_	ADV	ADV	_	4	advmod	_	_
+3	picci	_	NOUN	NOUN	_	4	compound:lvc	_	_
+4	ekkutundi	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  384
+# text =  modaTamodaTa naaku aayana sangati baaga teliyadu .
+1	modaTamodaTa	_	ADV	ADV	_	6	advmod	_	_
+2	naaku	_	PRON	PRON	_	6	obj	_	_
+3	aayana	_	PRON	PRON	_	4	nmod	_	_
+4	sangati	_	NOUN	NOUN	_	6	nsubj	_	_
+5	baaga	_	ADV	ADV	_	6	advmod	_	_
+6	teliyadu	_	VERB	VERB	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id =  386
+# text =  nela nelaa jiitam Dabbuloonunci bhaaryaku kaasulu koneewaaDu .
+1	nela	_	NOUN	NOUN	_	2	compound:redup	_	_
+2	nelaa	_	NOUN	NOUN	_	7	obl:tmod	_	_
+3	jiitam	_	NOUN	NOUN	_	4	nmod	_	_
+4	Dabbuloonunci	_	NOUN	NOUN	_	7	obl	_	_
+5	bhaaryaku	_	NOUN	NOUN	_	7	iobj	_	_
+6	kaasulu	_	NOUN	NOUN	_	7	obj	_	_
+7	koneewaaDu	_	VERB	VERB	_	0	root	_	_
+8	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id =  388
+# text =  uuruuraa pradarśanaalu istuu pootaam .
+1	uuruuraa	_	ADV	ADV	_	4	advmod	_	_
+2	pradarśanaalu	_	NOUN	NOUN	_	4	obj	_	_
+3	istuu	_	VERB	VERB	_	4	compound	_	_
+4	pootaam	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  391
+# text =  miiru mellamellagaa naDawaali .
+1	miiru	_	PRON	PRON	_	3	nsubj	_	_
+2	mellamellagaa	_	ADV	ADV	_	3	advmod	_	_
+3	naDawaali	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  392
+# text =  niiLLu poosukonnaaDu .
+1	niiLLu	_	NOUN	NOUN	_	2	obj	_	_
+2	poosukonnaaDu	_	VERB	VERB	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  394
+# text =  waaLLu maaTLaaDukoNTunnaru .
+1	waaLLu	_	PRON	PRON	_	2	nsubj	_	_
+2	maaTLaaDukoNTunnaru	_	VERB	VERB	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  397
+# text =  aame paNDlu ammukonnadi .
+1	aame	_	PRON	PRON	_	3	nsubj	_	_
+2	paNDlu	_	NOUN	NOUN	_	3	obj	_	_
+3	ammukonnadi	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  410
+# text =  neenu cuusinawaaDu paaripooyEEDu .
+1	neenu	_	PRON	PRON	_	2	obj	_	_
+2	cuusinawaaDu	_	VERB	VERB	_	3	csubj	_	_
+3	paaripooyEEDu	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  411
+# text =  neenu iccinadi mii ceetuloo unnadi .
+1	neenu	_	PRON	PRON	_	2	nsubj	_	_
+2	iccinadi	_	VERB	VERB	_	5	csubj	_	_
+3	mii	_	PRON	PRON	_	4	nmod:poss	_	_
+4	ceetuloo	_	NOUN	NOUN	_	5	obl	_	_
+5	unnadi	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  414
+# text =  neenu aDigeedi idi .
+1	neenu	_	PRON	PRON	_	2	nsubj	_	_
+2	aDigeedi	_	VERB	VERB	_	3	acl:relcl	_	_
+3	idi	_	PRON	PRON	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  415
+# text =  ninna waccina waaLLani cuusEEnu .
+1	ninna	_	NOUN	NOUN	_	2	obl:tmod	_	_
+2	waccina	_	VERB	VERB	_	3	acl:relcl	_	_
+3	waaLLani	_	PRON	PRON	_	4	obj	_	_
+4	cuusEEnu	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  430
+# text =  aame elaa undi ?
+1	aame	_	PRON	PRON	_	3	nsubj	_	_
+2	elaa	_	ADV	ADV	_	3	advmod	_	_
+3	undi	_	VERB	VERB	_	0	root	_	_
+4	?	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  451
+# text =  atanu weLLipoowaTam cuusii cuuDanaTLu uurukondi .
+1	atanu	_	PRON	PRON	_	2	nsubj	_	_
+2	weLLipoowaTam	_	VERB	VERB	_	4	ccomp	_	_
+3	cuusii	_	VERB	VERB	_	4	compound:svc	_	_
+4	cuuDanaTLu	_	VERB	VERB	_	5	advcl	_	_
+5	uurukondi	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  452
+# text =  mii uttaram andii andaTamtooTee , jawaabu pampEEnu .
+1	mii	_	PRON	PRON	_	2	nmod:poss	_	_
+2	uttaram	_	NOUN	NOUN	_	4	nsubj	_	_
+3	andii	_	VERB	VERB	_	4	compound:svc	_	_
+4	andaTamtooTee	_	VERB	VERB	_	7	advcl	_	_
+5	,	_	PUNCT	PUNCT	_	7	punct	_	_
+6	jawaabu	_	NOUN	NOUN	_	7	obj	_	_
+7	pampEEnu	_	VERB	VERB	_	0	root	_	_
+8	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id =  486
+# text =  waaDu ii pani ceyyaleeDu .
+1	waaDu	_	PRON	PRON	_	4	nsubj	_	_
+2	ii	_	DET	DET	_	3	det	_	_
+3	pani	_	NOUN	NOUN	_	4	obj	_	_
+4	ceyyaleeDu	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  498
+# text =  neenu weLLinantawaraku . . .
+1	neenu	_	NOUN	NOUN	_	2	nsubj	_	_
+2	weLLinantawaraku	_	VERB	VERB	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+4	.	_	PUNCT	PUNCT	_	2	punct	_	_
+5	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  508
+# text =  adee naa pustakam .
+1	adee	_	PRON	PRON	_	3	nsubj	_	_
+2	naa	_	PRON	PRON	_	3	nmod:poss	_	_
+3	pustakam	_	NOUN	NOUN	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  523
+# text =  aayana appuDee waccEEDee !
+1	aayana	_	PRON	PRON	_	3	nsubj	_	_
+2	appuDee	_	ADV	ADV	_	3	advmod	_	_
+3	waccEEDee	_	VERB	VERB	_	0	root	_	_
+4	!	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  540
+# text =  naaku maaTLaaDee awakaasam iwwaNDi .
+1	naaku	_	PRON	PRON	_	4	iobj	_	_
+2	maaTLaaDee	_	VERB	VERB	_	3	acl	_	_
+3	awakaasam	_	NOUN	NOUN	_	4	obj	_	_
+4	iwwaNDi	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  542
+# text =  naaku niiloo baagupaDee lakSaNaalu kanipincaTam leedu .
+1	naaku	_	PRON	PRON	_	6	obj	_	_
+2	niiloo	_	NOUN	NOUN	_	6	obl	_	_
+3	baagupaDee	_	VERB	VERB	_	4	acl	_	_
+4	lakSaNaalu	_	NOUN	NOUN	_	6	csubj	_	_
+5	kanipincaTam	_	VERB	VERB	_	6	compound:lvc	_	_
+6	leedu	_	VERB	VERB	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id =  547
+# text =  meem aaDawaaLLam .
+1	meem	_	PRON	PRON	_	2	nsubj	_	_
+2	aaDawaaLLam	_	NOUN	NOUN	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  565
+# text =  waaDu biidawaaDu .
+1	waaDu	_	PRON	PRON	_	2	nsubj	_	_
+2	biidawaaDu	_	NOUN	NOUN	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  568
+# text =  neenu biidawaaNNI .
+1	neenu	_	PRON	PRON	_	2	nsubj	_	_
+2	biidawaaNNI	_	NOUN	NOUN	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  575
+# text =  waaDu iNTiki raa leedu .
+1	waaDu	_	PRON	PRON	_	4	nsubj	_	_
+2	iNTiki	_	NOUN	NOUN	_	4	obl	_	_
+3	raa	_	VERB	VERB	_	4	compound	_	_
+4	leedu	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  583
+# text =  wiiLLU biccagaaLLu .
+1	wiiLLU	_	PRON	PRON	_	2	nsubj	_	_
+2	biccagaaLLu	_	NOUN	NOUN	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  599
+# text =  waaDu ewaDu ?
+1	waaDu	_	PRON	PRON	_	2	nsubj	_	_
+2	ewaDu	_	PRON	PRON	_	0	root	_	_
+3	?	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  607
+# text =  kamala puulu koosindi .
+1	kamala	_	PROPN	PROPN	_	3	nsubj	_	_
+2	puulu	_	NOUN	NOUN	_	3	obj	_	_
+3	koosindi	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  656
+# text =  ippuDu aameki enimidoo nela .
+1	ippuDu	_	NOUN	NOUN	_	4	nmod:tmod	_	_
+2	aameki	_	NOUN	NOUN	_	4	nsubj:nc	_	_
+3	enimidoo	_	ADJ	ADJ	_	4	amod	_	_
+4	nela	_	NOUN	NOUN	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  658
+# text =  subbaaraawu reepu ceerataaDu .
+1	subbaaraawu	_	PROPN	PROPN	_	3	nsubj	_	_
+2	reepu	_	NOUN	NOUN	_	3	obl:tmod	_	_
+3	ceerataaDu	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  664
+# text =  raamayya iDLiilu saambaarutoo tinnaaDu .
+1	raamayya	_	PROPN	PROPN	_	4	nsubj	_	_
+2	iDLiilu	_	NOUN	NOUN	_	4	obj	_	_
+3	saambaarutoo	_	NOUN	NOUN	_	4	obl	_	_
+4	tinnaaDu	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  677
+# text =  raamu waaLLaloo modaTiwaaDu ; neenu modaTiwaaNNi pilicEEnu .
+1	raamu	_	PROPN	PROPN	_	3	nsubj	_	_
+2	waaLLaloo	_	PRON	PRON	_	3	obl	_	_
+3	modaTiwaaDu	_	NOUN	NOUN	_	0	root	_	_
+4	;	_	PUNCT	PUNCT	_	3	punct	_	_
+5	neenu	_	PRON	PRON	_	7	nsubj	_	_
+6	modaTiwaaNNi	_	NOUN	NOUN	_	7	obj	_	_
+7	pilicEEnu	_	VERB	VERB	_	3	parataxis	_	_
+8	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id =  682
+# text =  waaDu tiTTEEDu .
+1	waaDu	_	PRON	PRON	_	2	nsubj	_	_
+2	tiTTEEDu	_	VERB	VERB	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  683
+# text =  neenu koTTEEnu .
+1	neenu	_	PRON	PRON	_	2	nsubj	_	_
+2	koTTEEnu	_	VERB	VERB	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  685
+# text =  waaDu ninnu tiTTEEDu .
+1	waaDu	_	PRON	PRON	_	3	nsubj	_	_
+2	ninnu	_	PRON	PRON	_	3	obj	_	_
+3	tiTTEEDu	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  688
+# text =  pilla waaDiki aakali ayndi .
+1	pilla	_	NOUN	NOUN	_	2	compound	_	_
+2	waaDiki	_	PRON	PRON	_	4	nsubj	_	_
+3	aakali	_	NOUN	NOUN	_	4	compound:lvc	_	_
+4	ayndi	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  692
+# text =  niiwu cinnawaaDiwi kaabaTTi , naa maaTa winaali .
+1	niiwu	_	PRON	PRON	_	2	nsubj	_	_
+2	cinnawaaDiwi	_	PRON	PRON	_	7	advcl	_	_
+3	kaabaTTi	_	SCONJ	SCONJ	_	2	mark	_	_
+4	,	_	PUNCT	PUNCT	_	7	punct	_	_
+5	naa	_	PRON	PRON	_	6	nmod:poss	_	_
+6	maaTa	_	NOUN	NOUN	_	7	obj	_	_
+7	winaali	_	VERB	VERB	_	0	root	_	_
+8	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id =  698
+# text =  waaru sigareTLu taagaru .
+1	waaru	_	PRON	PRON	_	3	nsubj	_	_
+2	sigareTLu	_	NOUN	NOUN	_	3	obj	_	_
+3	taagaru	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  701
+# text =  adi maa illu kaadu .
+1	adi	_	PRON	PRON	_	4	nsubj	_	_
+2	maa	_	PRON	PRON	_	3	nmod:poss	_	_
+3	illu	_	NOUN	NOUN	_	4	obj	_	_
+4	kaadu	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  706
+# text =  lakSa ruupaayilu sampaadincaTam enta asaadhyamoo idii anta asaadhyamee .
+1	lakSa	_	NUM	NUM	_	2	nummod	_	_
+2	ruupaayilu	_	NOUN	NOUN	_	3	nsubj	_	_
+3	sampaadincaTam	_	VERB	VERB	_	5	csubj	_	_
+4	enta	_	DET	DET	_	5	det	_	_
+5	asaadhyamoo	_	NOUN	NOUN	_	8	ccomp	_	_
+6	idii	_	PRON	PRON	_	8	nsubj	_	_
+7	anta	_	DET	DET	_	8	det	_	_
+8	asaadhyamee	_	NOUN	NOUN	_	0	root	_	_
+9	.	_	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id =  710
+# text =  enta twaragaa ayitee anta mancidi .
+1	enta	_	DET	DET	_	2	det	_	_
+2	twaragaa	_	ADV	ADV	_	3	advmod	_	_
+3	ayitee	_	VERB	VERB	_	5	ccomp	_	_
+4	anta	_	DET	DET	_	5	det	_	_
+5	mancidi	_	NOUN	NOUN	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  715
+# text =  miiru ekkaDa uNTaaru ?
+1	miiru	_	PRON	PRON	_	3	nsubj	_	_
+2	ekkaDa	_	ADV	ADV	_	3	advmod	_	_
+3	uNTaaru	_	VERB	VERB	_	0	root	_	_
+4	?	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  740
+# text =  idi mettani pakka .
+1	idi	_	PRON	PRON	_	3	nsubj	_	_
+2	mettani	_	NOUN	NOUN	_	3	nmod:poss	_	_
+3	pakka	_	NOUN	NOUN	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  743
+# text =  deewuDu antaTaa unnaaDu .
+1	deewuDu	_	NOUN	NOUN	_	3	nsubj	_	_
+2	antaTaa	_	ADV	ADV	_	3	advmod	_	_
+3	unnaaDu	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  750
+# text =  loopaliki raNDi .
+1	loopaliki	_	NOUN	NOUN	_	2	obl	_	_
+2	raNDi	_	VERB	VERB	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  753
+# text =  kaayitaalu peTTe kinda unnaay .
+1	kaayitaalu	_	NOUN	NOUN	_	4	nsubj	_	_
+2	peTTe	_	NOUN	NOUN	_	4	obl	_	_
+3	kinda	_	ADP	ADP	_	2	case	_	_
+4	unnaay	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  755
+# text =  uuribayTa guDi unnadi .
+1	uuribayTa	_	NOUN	NOUN	_	3	obl	_	_
+2	guDi	_	NOUN	NOUN	_	3	nsubj	_	_
+3	unnadi	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  756
+# text =  maa uuru kriSNaa nadi daggira unnadi .
+1	maa	_	PRON	PRON	_	2	nmod:poss	_	_
+2	uuru	_	NOUN	NOUN	_	6	nsubj	_	_
+3	kriSNaa	_	PROPN	PROPN	_	4	compound	_	_
+4	nadi	_	NOUN	NOUN	_	6	obl	_	_
+5	daggira	_	ADP	ADP	_	4	case	_	_
+6	unnadi	_	VERB	VERB	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id =  769
+# text =  ii pustakam naaku nela roojulapaaTu istaaraa ?
+1	ii	_	DET	DET	_	2	det	_	_
+2	pustakam	_	NOUN	NOUN	_	6	obj	_	_
+3	naaku	_	PRON	PRON	_	6	iobj	_	_
+4	nela	_	NOUN	NOUN	_	5	nmod	_	_
+5	roojulapaaTu	_	NOUN	NOUN	_	6	obl:tmod	_	_
+6	istaaraa	_	VERB	VERB	_	0	root	_	_
+7	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id =  771
+# text =  puTTaka puTTaka koDuku puTTEEDu .
+1	puTTaka	_	VERB	VERB	_	2	compound:redup	_	_
+2	puTTaka	_	VERB	VERB	_	4	advcl	_	_
+3	koDuku	_	NOUN	NOUN	_	4	nsubj	_	_
+4	puTTEEDu	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  780
+# text =  waaDu raakapooyinaa , neenu weLtaanu .
+1	waaDu	_	PRON	PRON	_	2	nsubj	_	_
+2	raakapooyinaa	_	VERB	VERB	_	5	advcl	_	_
+3	,	_	PUNCT	PUNCT	_	5	punct	_	_
+4	neenu	_	PRON	PRON	_	5	nsubj	_	_
+5	weLtaanu	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  784
+# text =  nuwwuu naatoo raa !
+1	nuwwuu	_	PRON	PRON	_	3	nsubj	_	_
+2	naatoo	_	PRON	PRON	_	3	obl	_	_
+3	raa	_	VERB	VERB	_	0	root	_	_
+4	!	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  800
+# text =  oka roojantaa dayaalbaagloo gapEEDu .
+1	oka	_	NUM	NUM	_	2	nummod	_	_
+2	roojantaa	_	NOUN	NOUN	_	4	obl:tmod	_	_
+3	dayaalbaagloo	_	PROPN	PROPN	_	4	obl	_	_
+4	gapEEDu	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  802
+# text =  reNDu ceetulatoonuu nannu paTTukoni kawgilincEEDu .
+1	reNDu	_	NUM	NUM	_	2	nummod	_	_
+2	ceetulatoonuu	_	NOUN	NOUN	_	5	obl	_	_
+3	nannu	_	NOUN	NOUN	_	5	obj	_	_
+4	paTTukoni	_	VERB	VERB	_	5	advcl	_	_
+5	kawgilincEEDu	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  825
+# text =  eemiToo ikkaDa konta kaalam uNDaalanipincindi .
+1	eemiToo	_	PART	PART	_	5	discourse	_	_
+2	ikkaDa	_	ADV	ADV	_	5	advmod	_	_
+3	konta	_	DET	DET	_	4	det	_	_
+4	kaalam	_	NOUN	NOUN	_	5	obl:tmod	_	_
+5	uNDaalanipincindi	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  850
+# text =  raamu iNTiki weLLi, peeparu caduwutaaDu .
+1	raamu	_	PROPN	PROPN	_	3	nsubj	_	_
+2	iNTiki	_	NOUN	NOUN	_	3	obl	_	_
+3	weLLi,	_	VERB	VERB	_	0	root	_	_
+4	peeparu	_	NOUN	NOUN	_	5	obj	_	_
+5	caduwutaaDu	_	VERB	VERB	_	3	conj	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  855
+# text =  raamu iDLiilu tinnaaDu .
+1	raamu	_	PROPN	PROPN	_	3	nsubj	_	_
+2	iDLiilu	_	NOUN	NOUN	_	3	obj	_	_
+3	tinnaaDu	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  857
+# text =  raamu iDLiilu tini , kaafii taagEEDu .
+1	raamu	_	PROPN	PROPN	_	6	nsubj	_	_
+2	iDLiilu	_	NOUN	NOUN	_	3	obj	_	_
+3	tini	_	VERB	VERB	_	6	advcl	_	_
+4	,	_	PUNCT	PUNCT	_	6	punct	_	_
+5	kaafii	_	NOUN	NOUN	_	6	obj	_	_
+6	taagEEDu	_	VERB	VERB	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id =  858
+# text =  raamu iDLiilu tinnaaDu , kaafii taagEEDu .
+1	raamu	_	NOUN	NOUN	_	3	nsubj	_	_
+2	iDLiilu	_	NOUN	NOUN	_	3	obj	_	_
+3	tinnaaDu	_	VERB	VERB	_	0	root	_	_
+4	,	_	PUNCT	PUNCT	_	6	punct	_	_
+5	kaafii	_	NOUN	NOUN	_	6	obj	_	_
+6	taagEEDu	_	VERB	VERB	_	3	conj	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id =  864
+# text =  raamu tondaragaanu kamala mellagaanu naDnstaaru .
+1	raamu	_	PROPN	PROPN	_	5	nsubj	_	_
+2	tondaragaanu	_	ADV	ADV	_	1	orphan	_	_
+3	kamala	_	PROPN	PROPN	_	1	conj	_	_
+4	mellagaanu	_	ADV	ADV	_	5	advmod	_	_
+5	naDnstaaru	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  870
+# text =  miiru klEEsuku raawaTam enduku ?
+1	miiru	_	PRON	PRON	_	3	nsubj	_	_
+2	klEEsuku	_	NOUN	NOUN	_	3	obl	_	_
+3	raawaTam	_	VERB	VERB	_	0	root	_	_
+4	enduku	_	ADV	ADV	_	3	advmod	_	_
+5	?	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  871
+# text =  pillalu weLLaTam ekkaDiki ?
+1	pillalu	_	NOUN	NOUN	_	2	nsubj	_	_
+2	weLLaTam	_	VERB	VERB	_	0	root	_	_
+3	ekkaDiki	_	NOUN	NOUN	_	2	obl	_	_
+4	?	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  889
+# text =  Dajan aNTee panneNDu .
+1	Dajan	_	NUM	NUM	_	2	nsubj	_	_
+2	aNTee	_	NOUN	NOUN	_	0	root	_	_
+3	panneNDu	_	NUM	NUM	_	2	obj	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  894
+# text =  hrudayamloo eeDupu , koopam neenu mundu aNTee , neenu mundu aNTunnaayi .
+1	hrudayamloo	_	NOUN	NOUN	_	11	obl	_	_
+2	eeDupu	_	NOUN	NOUN	_	11	nsubj	_	_
+3	,	_	PUNCT	PUNCT	_	4	punct	_	_
+4	koopam	_	NOUN	NOUN	_	2	conj	_	_
+5	neenu	_	PRON	PRON	_	7	nsubj	_	_
+6	mundu	_	ADV	ADV	_	5	appos	_	_
+7	aNTee	_	VERB	VERB	_	11	ccomp	_	_
+8	,	_	PUNCT	PUNCT	_	9	punct	_	_
+9	neenu	_	PRON	PRON	_	7	conj	_	_
+10	mundu	_	ADV	ADV	_	9	appos	_	_
+11	aNTunnaayi	_	VERB	VERB	_	0	root	_	_
+12	.	_	PUNCT	PUNCT	_	11	punct	_	_
+
+# sent_id =  897
+# text =  maa tammuNNi cuuDaali aNTee , pilustaanu .
+1	maa	_	PRON	PRON	_	2	nmod:poss	_	_
+2	tammuNNi	_	NOUN	NOUN	_	3	obj	_	_
+3	cuuDaali	_	VERB	VERB	_	6	advcl	_	_
+4	aNTee	_	SCONJ	SCONJ	_	3	mark	_	_
+5	,	_	PUNCT	PUNCT	_	6	punct	_	_
+6	pilustaanu	_	VERB	VERB	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id =  904
+# text =  miiru wastaaru anee aaśa ..
+1	miiru	_	PRON	PRON	_	2	nsubj	_	_
+2	wastaaru	_	VERB	VERB	_	4	acl	_	_
+3	anee	_	SCONJ	SCONJ	_	2	mark	_	_
+4	aaśa	_	NOUN	NOUN	_	0	root	_	_
+5	..	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  906
+# text =  maanawuDu naa anee wyaktulakoosam batukutaaDu , tana koosam kaadu .
+1	maanawuDu	_	NOUN	NOUN	_	5	nsubj	_	_
+2	naa	_	PRON	PRON	_	4	nsubj	_	_
+3	anee	_	SCONJ	SCONJ	_	2	mark	_	_
+4	wyaktulakoosam	_	NOUN	NOUN	_	5	ccomp	_	_
+5	batukutaaDu	_	VERB	VERB	_	0	root	_	_
+6	,	_	PUNCT	PUNCT	_	9	punct	_	_
+7	tana	_	PRON	PRON	_	9	nsubj	_	_
+8	koosam	_	ADP	ADP	_	7	case	_	_
+9	kaadu	_	VERB	VERB	_	5	parataxis	_	_
+10	.	_	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id =  910
+# text =  meem iNTiki weLLEEm .
+1	meem	_	PRON	PRON	_	3	nsubj	_	_
+2	iNTiki	_	NOUN	NOUN	_	3	obl	_	_
+3	weLLEEm	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  934
+# text =  waaNNi eddu kommulatoo poDicindi .
+1	waaNNi	_	PRON	PRON	_	4	obj	_	_
+2	eddu	_	NOUN	NOUN	_	4	nsubj	_	_
+3	kommulatoo	_	NOUN	NOUN	_	4	obl	_	_
+4	poDicindi	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  956
+# text =  aawu meetaku weLLindi .
+1	aawu	_	NOUN	NOUN	_	3	nsubj	_	_
+2	meetaku	_	NOUN	NOUN	_	3	obl	_	_
+3	weLLindi	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  964
+# text =  waaDu Dabbu koosam prayatnistunnaaDu .
+1	waaDu	_	PRON	PRON	_	4	nsubj	_	_
+2	Dabbu	_	NOUN	NOUN	_	4	obl	_	_
+3	koosam	_	ADP	ADP	_	2	case	_	_
+4	prayatnistunnaaDu	_	NOUN	NOUN	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  967
+# text =  idi naa kanna ekkuwa ewariki telusu ?
+1	idi	_	PRON	PRON	_	6	obj	_	_
+2	naa	_	PRON	PRON	_	5	nmod:cmp	_	_
+3	kanna	_	ADP	ADP	_	2	case	_	_
+4	ekkuwa	_	NOUN	NOUN	_	2	clf	_	_
+5	ewariki	_	PRON	PRON	_	6	nsubj:nc	_	_
+6	telusu	_	VERB	VERB	_	0	root	_	_
+7	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id =  980
+# text =  neenu ii sangati miitoo maaTLaDaguuDadu .
+1	neenu	_	PRON	PRON	_	5	nsubj	_	_
+2	ii	_	DET	DET	_	3	det	_	_
+3	sangati	_	NOUN	NOUN	_	5	obj	_	_
+4	miitoo	_	PRON	PRON	_	5	obl	_	_
+5	maaTLaDaguuDadu	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  983
+# text =  naaku aa sangati padeeLLa kindaTa telusu .
+1	naaku	_	PRON	PRON	_	6	obj	_	_
+2	aa	_	DET	DET	_	3	det	_	_
+3	sangati	_	NOUN	NOUN	_	6	nsubj	_	_
+4	padeeLLa	_	NOUN	NOUN	_	6	obl:tmod	_	_
+5	kindaTa	_	ADP	ADP	_	4	case	_	_
+6	telusu	_	VERB	VERB	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id =  995
+# text =  aayana wastaaDu .
+1	aayana	_	PRON	PRON	_	2	nsubj	_	_
+2	wastaaDu	_	VERB	VERB	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  1021
+# text =  ataniki telugu waccu .
+1	ataniki	_	PRON	PRON	_	3	obj	_	_
+2	telugu	_	NOUN	NOUN	_	3	nsubj	_	_
+3	waccu	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  1032
+# text =  caalu lee !
+1	caalu	_	VERB	VERB	_	0	root	_	_
+2	lee	_	PART	PART	_	1	discourse	_	_
+3	!	_	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id =  1064
+# text =  illu ammitee , Dabbu wastundi .
+1	illu	_	NOUN	NOUN	_	2	nsubj	_	_
+2	ammitee	_	VERB	VERB	_	5	advcl:cond	_	_
+3	,	_	PUNCT	PUNCT	_	5	punct	_	_
+4	Dabbu	_	NOUN	NOUN	_	5	nsubj	_	_
+5	wastundi	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  1067
+# text =  annam peDitee , pillalu eeDawaru .
+1	annam	_	NOUN	NOUN	_	2	nsubj	_	_
+2	peDitee	_	VERB	VERB	_	5	advcl:cond	_	_
+3	,	_	PUNCT	PUNCT	_	5	punct	_	_
+4	pillalu	_	NOUN	NOUN	_	5	nsubj	_	_
+5	eeDawaru	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  1078
+# text =  padipadulu nuuru .
+1	padipadulu	_	NUM	NUM	_	2	nummod	_	_
+2	nuuru	_	NUM	NUM	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  1100
+# text =  waaDu nannu koTTabooyEEDu .
+1	waaDu	_	PRON	PRON	_	3	nsubj	_	_
+2	nannu	_	PRON	PRON	_	3	obj	_	_
+3	koTTabooyEEDu	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  1115
+# text =  aa ammaayi andangaa unnadi .
+1	aa	_	DET	DET	_	2	det	_	_
+2	ammaayi	_	NOUN	NOUN	_	4	nsubj	_	_
+3	andangaa	_	ADV	ADV	_	4	advmod	_	_
+4	unnadi	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  1116
+# text =  miiru kulaasaagaa unnaaraa ?
+1	miiru	_	PRON	PRON	_	3	nsubj	_	_
+2	kulaasaagaa	_	ADV	ADV	_	3	advmod	_	_
+3	unnaaraa	_	VERB	VERB	_	0	root	_	_
+4	?	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  1118
+# text =  neenu eem ceestee nyaayangaa uNTundi ?
+1	neenu	_	PRON	PRON	_	3	nsubj	_	_
+2	eem	_	PRON	PRON	_	3	obj	_	_
+3	ceestee	_	VERB	VERB	_	5	csubj	_	_
+4	nyaayangaa	_	ADV	ADV	_	5	advmod	_	_
+5	uNTundi	_	VERB	VERB	_	0	root	_	_
+6	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  1126
+# text =  aame naaku edurugaa kuurcundi .
+1	aame	_	PRON	PRON	_	4	nsubj	_	_
+2	naaku	_	PRON	PRON	_	4	obl	_	_
+3	edurugaa	_	ADV	ADV	_	4	advmod	_	_
+4	kuurcundi	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  1132
+# text =  waaLLu bommala koluwu peTTEEru .
+1	waaLLu	_	PRON	PRON	_	4	nsubj	_	_
+2	bommala	_	NOUN	NOUN	_	3	nmod:poss	_	_
+3	koluwu	_	NOUN	NOUN	_	4	obj	_	_
+4	peTTEEru	_	NOUN	NOUN	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  1146
+# text =  wimala cellelu .
+1	wimala	_	PROPN	PROPN	_	2	nsubj	_	_
+2	cellelu	_	NOUN	NOUN	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  1147
+# text =  kamalaa wimalalu akkaacelleLLu .
+1	kamalaa	_	PROPN	PROPN	_	3	nsubj	_	_
+2	wimalalu	_	PROPN	PROPN	_	1	conj	_	_
+3	akkaacelleLLu	_	NOUN	NOUN	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  1152
+# text =  waaLLaku mugguru pillalu .
+1	waaLLaku	_	PRON	PRON	_	3	nsubj:nc	_	_
+2	mugguru	_	ADJ	ADJ	_	3	amod	_	_
+3	pillalu	_	NOUN	NOUN	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  1184
+# text =  iwi kottawi kaadu .
+1	iwi	_	PRON	PRON	_	3	nsubj	_	_
+2	kottawi	_	NOUN	NOUN	_	3	obj	_	_
+3	kaadu	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  1191
+# text =  aame cakkanidi .
+1	aame	_	PRON	PRON	_	2	nsubj	_	_
+2	cakkanidi	_	NOUN	NOUN	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  1195
+# text =  aayana goppawaaDu .
+1	aayana	_	PRON	PRON	_	2	nsubj	_	_
+2	goppawaaDu	_	NOUN	NOUN	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  1197
+# text =  iNTiki weLLu .
+1	iNTiki	_	NOUN	NOUN	_	2	obl	_	_
+2	weLLu	_	VERB	VERB	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  1203
+# text =  maa uuriki raa .
+1	maa	_	PRON	PRON	_	2	nmod:poss	_	_
+2	uuriki	_	NOUN	NOUN	_	3	obl	_	_
+3	raa	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  1211
+# text =  waaDiki Dabbu iwwakaNDi .
+1	waaDiki	_	PRON	PRON	_	3	obj	_	_
+2	Dabbu	_	NOUN	NOUN	_	3	iobj	_	_
+3	iwwakaNDi	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  1212
+# text =  ii pustkaalu konaNDi .
+1	ii	_	DET	DET	_	2	det	_	_
+2	pustkaalu	_	NOUN	NOUN	_	3	obj	_	_
+3	konaNDi	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  1216
+# text =  kamala andagatte .
+1	kamala	_	PROPN	PROPN	_	2	nsubj	_	_
+2	andagatte	_	NOUN	NOUN	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  1233
+# text =  waaDu waaLLu kSeemangaa ceerinaTLu raasEEDu .
+1	waaDu	_	PRON	PRON	_	5	nsubj	_	_
+2	waaLLu	_	PRON	PRON	_	4	nsubj	_	_
+3	kSeemangaa	_	ADV	ADV	_	4	advmod	_	_
+4	ceerinaTLu	_	VERB	VERB	_	5	ccomp	_	_
+5	raasEEDu	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  1240
+# text =  reNDu muuDu wandala ruupaayilu kharcu peDitee gaani , polaalu maamuulu sthitilooki waccEETaTLu leewu .
+1	reNDu	_	NUM	NUM	_	3	nummod	_	_
+2	muuDu	_	NUM	NUM	_	3	nummod	_	_
+3	wandala	_	NOUN	NOUN	_	4	amod	_	_
+4	ruupaayilu	_	NOUN	NOUN	_	6	nsubj	_	_
+5	kharcu	_	NOUN	NOUN	_	6	compound:lvc	_	_
+6	peDitee	_	VERB	VERB	_	13	advcl	_	_
+7	gaani	_	CCONJ	CCONJ	_	6	mark	_	_
+8	,	_	PUNCT	PUNCT	_	13	punct	_	_
+9	polaalu	_	NOUN	NOUN	_	13	nsubj	_	_
+10	maamuulu	_	ADJ	ADJ	_	11	amod	_	_
+11	sthitilooki	_	NOUN	NOUN	_	13	obl	_	_
+12	waccEETaTLu	_	VERB	VERB	_	13	compound:lvc	_	_
+13	leewu	_	VERB	VERB	_	0	root	_	_
+14	.	_	PUNCT	PUNCT	_	13	punct	_	_
+
+# sent_id =  1264
+# text =  juunlo ikkaDa waanalu paDutuNTaayi .
+1	juunlo	_	NOUN	NOUN	_	4	obl:tmod	_	_
+2	ikkaDa	_	ADV	ADV	_	4	advmod	_	_
+3	waanalu	_	NOUN	NOUN	_	4	nsubj	_	_
+4	paDutuNTaayi	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  1268
+# text =  naak(u) ii deeśam kottagaa undi .
+1	naak(u)	_	PRON	PRON	_	5	obj	_	_
+2	ii	_	DET	DET	_	3	det	_	_
+3	deeśam	_	NOUN	NOUN	_	5	nsubj	_	_
+4	kottagaa	_	ADV	ADV	_	5	advmod	_	_
+5	undi	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  1311
+# text =  idi naa kalam .
+1	idi	_	PRON	PRON	_	3	nsubj	_	_
+2	naa	_	PRON	PRON	_	3	nmod:poss	_	_
+3	kalam	_	NOUN	NOUN	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  1312
+# text =  idi maa ammaayi .
+1	idi	_	PRON	PRON	_	3	nsubj	_	_
+2	maa	_	PRON	PRON	_	3	nmod:poss	_	_
+3	ammaayi	_	NOUN	NOUN	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  1316
+# text =  adi mii naannagaari uuru .
+1	adi	_	PRON	PRON	_	4	nsubj	_	_
+2	mii	_	PRON	PRON	_	3	nmod:poss	_	_
+3	naannagaari	_	NOUN	NOUN	_	4	nmod:poss	_	_
+4	uuru	_	NOUN	NOUN	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+

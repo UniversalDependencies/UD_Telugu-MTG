@@ -1,0 +1,1159 @@
+# sent_id =  0
+# text =  చూసేరండీ ?
+1	చూసేరండీ	_	VERB	VERB	_	0	root	_	_
+2	?	_	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id =  3
+# text =  ఎక్కడికండి వెళ్తున్నారు ?
+1	ఎక్కడికండి	_	NOUN	NOUN	_	2	obl	_	_
+2	వెళ్తున్నారు	_	VERB	VERB	_	0	root	_	_
+3	?	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  4
+# text =  నవ్వరటండి నలుగురు ?
+1	నవ్వరటండి	_	VERB	VERB	_	0	root	_	_
+2	నలుగురు	_	NOUN	NOUN	_	1	nsubj	_	_
+3	?	_	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id =  20
+# text =  మీరో నేనో ఈ పని చెయ్యాలి .
+1	మీరో	_	PRON	PRON	_	5	nsubj	_	_
+2	నేనో	_	PRON	PRON	_	1	conj	_	_
+3	ఈ	_	DET	DET	_	4	det	_	_
+4	పని	_	NOUN	NOUN	_	5	obj	_	_
+5	చెయ్యాలి	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  33
+# text =  అంత పెద్ద పుస్తకం చదివేరా ?
+1	అంత	_	DET	DET	_	3	det	_	_
+2	పెద్ద	_	ADJ	ADJ	_	3	amod	_	_
+3	పుస్తకం	_	NOUN	NOUN	_	4	obj	_	_
+4	చదివేరా	_	VERB	VERB	_	0	root	_	_
+5	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  47
+# text =  వాడు కుక్కను కర్రతో కొట్టేడు .
+1	వాడు	_	PRON	PRON	_	4	nsubj	_	_
+2	కుక్కను	_	NOUN	NOUN	_	4	obj	_	_
+3	కర్రతో	_	NOUN	NOUN	_	4	obl	_	_
+4	కొట్టేడు	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  49
+# text =  నేను ఆమె కంటె పెద్ద .
+1	నేను	_	PRON	PRON	_	4	nsubj	_	_
+2	ఆమె	_	PRON	PRON	_	1	nmod:cmp	_	_
+3	కంటె	_	ADP	ADP	_	2	case	_	_
+4	పెద్ద	_	NOUN	NOUN	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  57
+# text =  మనం అన్నం ఎందుకు తినటం ?
+1	మనం	_	PRON	PRON	_	4	nsubj	_	_
+2	అన్నం	_	NOUN	NOUN	_	4	obj	_	_
+3	ఎందుకు	_	ADV	ADV	_	4	advmod	_	_
+4	తినటం	_	VERB	VERB	_	0	root	_	_
+5	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  88
+# text =  ఆయన నిన్నటేగదా మద్రాసునుంచి వచ్చేరు .
+1	ఆయన	_	PRON	PRON	_	4	nsubj	_	_
+2	నిన్నటేగదా	_	ADV	ADV	_	4	advmod	_	_
+3	మద్రాసునుంచి	_	NOUN	NOUN	_	4	obl	_	_
+4	వచ్చేరు	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  102
+# text =  నేను ఆయనకు చెప్పకుండా వచ్చేను .
+1	నేను	_	PRON	PRON	_	4	nsubj	_	_
+2	ఆయనకు	_	PRON	PRON	_	3	obj	_	_
+3	చెప్పకుండా	_	VERB	VERB	_	4	advcl	_	_
+4	వచ్చేను	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  105
+# text =  చూడకుండా , వెళ్ళకండి .
+1	చూడకుండా	_	VERB	VERB	_	3	advcl	_	_
+2	,	_	PUNCT	PUNCT	_	3	punct	_	_
+3	వెళ్ళకండి	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  131
+# text =  అతన్ని మళ్ళీ వెనక్కి పిలుద్దాం అనుకొన్నది .
+1	అతన్ని	_	PRON	PRON	_	4	obj	_	_
+2	మళ్ళీ	_	ADV	ADV	_	4	advmod	_	_
+3	వెనక్కి	_	NOUN	NOUN	_	4	obl:tmod	_	_
+4	పిలుద్దాం	_	VERB	VERB	_	5	ccomp	_	_
+5	అనుకొన్నది	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  147
+# text =  రామయ్య ఇంటికి తెచ్చింది మందు .
+1	రామయ్య	_	PROPN	PROPN	_	3	nsubj	_	_
+2	ఇంటికి	_	NOUN	NOUN	_	3	obl	_	_
+3	తెచ్చింది	_	VERB	VERB	_	4	acl:relcl	_	_
+4	మందు	_	NOUN	NOUN	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  149
+# text =  వాడికి ఆకలి వేస్తున్నది .
+1	వాడికి	_	PRON	PRON	_	3	obj	_	_
+2	ఆకలి	_	NOUN	NOUN	_	3	nsubj	_	_
+3	వేస్తున్నది	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  182
+# text =  పక్షులు ఎగురుతాయి .
+1	పక్షులు	_	NOUN	NOUN	_	2	nsubj	_	_
+2	ఎగురుతాయి	_	VERB	VERB	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  194
+# text =  కమల మొగుడితో సినిమాకు వెళ్ళిందా ?
+1	కమల	_	PROPN	PROPN	_	4	nsubj	_	_
+2	మొగుడితో	_	NOUN	NOUN	_	4	obl	_	_
+3	సినిమాకు	_	NOUN	NOUN	_	4	obl	_	_
+4	వెళ్ళిందా	_	VERB	VERB	_	0	root	_	_
+5	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  196
+# text =  కమల మొగుడితోనా సినిమాకు వెళ్ళింది ?
+1	కమల	_	PROPN	PROPN	_	4	nsubj	_	_
+2	మొగుడితోనా	_	NOUN	NOUN	_	4	obl	_	_
+3	సినిమాకు	_	NOUN	NOUN	_	4	obj	_	_
+4	వెళ్ళింది	_	VERB	VERB	_	0	root	_	_
+5	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  198
+# text =  ఇతను రామయ్య .
+1	ఇతను	_	PRON	PRON	_	2	nsubj	_	_
+2	రామయ్య	_	PROPN	PROPN	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  202
+# text =  అతను చాలా పొడుగు .
+1	అతను	_	PRON	PRON	_	3	nsubj	_	_
+2	చాలా	_	DET	DET	_	3	det	_	_
+3	పొడుగు	_	NOUN	NOUN	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  221
+# text =  మీరు అలా చెప్పి ఉండగూడదు .
+1	మీరు	_	PRON	PRON	_	4	nsubj	_	_
+2	అలా	_	ADV	ADV	_	4	advmod	_	_
+3	చెప్పి	_	VERB	VERB	_	4	compound:svc	_	_
+4	ఉండగూడదు	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  222
+# text =  అమ్మా !
+1	అమ్మా	_	NOUN	NOUN	_	0	root	_	_
+2	!	_	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id =  224
+# text =  తాతా !
+1	తాతా	_	NOUN	NOUN	_	0	root	_	_
+2	!	_	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id =  232
+# text =  ఈ పాట విందాం .
+1	ఈ	_	DET	DET	_	2	det	_	_
+2	పాట	_	NOUN	NOUN	_	3	obj	_	_
+3	విందాం	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  242
+# text =  నిన్న ఎంతమంది మీ ఇంటికి వచ్చేరు ?
+1	నిన్న	_	NOUN	NOUN	_	5	obl:tmod	_	_
+2	ఎంతమంది	_	NOUN	NOUN	_	5	nsubj	_	_
+3	మీ	_	PRON	PRON	_	4	nmod:poss	_	_
+4	ఇంటికి	_	NOUN	NOUN	_	5	obl	_	_
+5	వచ్చేరు	_	VERB	VERB	_	0	root	_	_
+6	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  243
+# text =  గ్లేసులో ఎన్ని నీళ్ళు ఉన్నాయి ?
+1	గ్లేసులో	_	NOUN	NOUN	_	4	obl	_	_
+2	ఎన్ని	_	DET	DET	_	3	det	_	_
+3	నీళ్ళు	_	NOUN	NOUN	_	4	nsubj	_	_
+4	ఉన్నాయి	_	VERB	VERB	_	0	root	_	_
+5	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  248
+# text =  మీకు అన్ని ఇస్తాను .
+1	మీకు	_	PRON	PRON	_	3	iobj	_	_
+2	అన్ని	_	DET	DET	_	3	obj	_	_
+3	ఇస్తాను	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  262
+# text =  అబ్బాయి తెచ్చిన బొమ్మ ఇక్కడ ఉంది .
+1	అబ్బాయి	_	NOUN	NOUN	_	2	nsubj	_	_
+2	తెచ్చిన	_	VERB	VERB	_	3	acl:relcl	_	_
+3	బొమ్మ	_	NOUN	NOUN	_	5	nsubj	_	_
+4	ఇక్కడ	_	ADV	ADV	_	5	advmod	_	_
+5	ఉంది	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  271
+# text =  నేను చెప్పే మాట .
+1	నేను	_	PRON	PRON	_	2	nsubj	_	_
+2	చెప్పే	_	VERB	VERB	_	3	acl:relcl	_	_
+3	మాట	_	NOUN	NOUN	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  279
+# text =  నాకు ఒకే ఇల్లు ఉన్నది .
+1	నాకు	_	PRON	PRON	_	4	obj	_	_
+2	ఒకే	_	NUM	NUM	_	3	nummod	_	_
+3	ఇల్లు	_	NOUN	NOUN	_	4	nsubj	_	_
+4	ఉన్నది	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  292
+# text =  రూపాయికి చేరెడు బియ్యం రావటం లేదు .
+1	రూపాయికి	_	NOUN	NOUN	_	5	nsubj:nc	_	_
+2	చేరెడు	_	ADJ	ADJ	_	3	amod	_	_
+3	బియ్యం	_	NOUN	NOUN	_	5	obj	_	_
+4	రావటం	_	VERB	VERB	_	5	compound	_	_
+5	లేదు	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  297
+# text =  మీరు చెప్పనిదే , వాళ్ళు ఒప్పుకోరు .
+1	మీరు	_	PRON	PRON	_	2	nsubj	_	_
+2	చెప్పనిదే	_	VERB	VERB	_	5	advcl	_	_
+3	,	_	PUNCT	PUNCT	_	5	punct	_	_
+4	వాళ్ళు	_	PRON	PRON	_	5	nsubj	_	_
+5	ఒప్పుకోరు	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  300
+# text =  ఆయన వచ్చేటప్పుడు ఇటు పిలవండి .
+1	ఆయన	_	PRON	PRON	_	2	nsubj	_	_
+2	వచ్చేటప్పుడు	_	VERB	VERB	_	4	advcl	_	_
+3	ఇటు	_	ADV	ADV	_	4	advmod	_	_
+4	పిలవండి	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  309
+# text =  మీరు వచ్చేసరికి తయారుగా ఉంటాను .
+1	మీరు	_	PRON	PRON	_	2	nsubj	_	_
+2	వచ్చేసరికి	_	VERB	VERB	_	4	advcl	_	_
+3	తయారుగా	_	ADV	ADV	_	4	advmod	_	_
+4	ఉంటాను	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  318
+# text =  అన్నం తినే నోరు .
+1	అన్నం	_	NOUN	NOUN	_	2	obj	_	_
+2	తినే	_	NOUN	NOUN	_	3	acl:relcl	_	_
+3	నోరు	_	NOUN	NOUN	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  322
+# text =  నీళ్ళు తోడే బావులు మా ఊళ్ళో మూడు ఉన్నాయి .
+1	నీళ్ళు	_	NOUN	NOUN	_	2	obj	_	_
+2	తోడే	_	VERB	VERB	_	3	acl:relcl	_	_
+3	బావులు	_	NOUN	NOUN	_	7	nsubj	_	_
+4	మా	_	PRON	PRON	_	5	nmod	_	_
+5	ఊళ్ళో	_	NOUN	NOUN	_	7	obl	_	_
+6	మూడు	_	NUM	NUM	_	3	orphan	_	_
+7	ఉన్నాయి	_	VERB	VERB	_	0	root	_	_
+8	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id =  324
+# text =  నేను డబ్బు ఇచ్చిన మనిషి పేరు వెంకయ్య .
+1	నేను	_	PRON	PRON	_	3	nsubj	_	_
+2	డబ్బు	_	NOUN	NOUN	_	3	obj	_	_
+3	ఇచ్చిన	_	VERB	VERB	_	4	acl:relcl	_	_
+4	మనిషి	_	NOUN	NOUN	_	5	nmod:poss	_	_
+5	పేరు	_	NOUN	NOUN	_	6	nsubj	_	_
+6	వెంకయ్య	_	NOUN	NOUN	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id =  331
+# text =  నేను రేపు వస్తాను .
+1	నేను	_	PRON	PRON	_	3	nsubj	_	_
+2	రేపు	_	NOUN	NOUN	_	3	obl:tmod	_	_
+3	వస్తాను	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  355
+# text =  నిన్న కమలకు పుస్తకం ఇచ్చింది రాము .
+1	నిన్న	_	NOUN	NOUN	_	4	obl:tmod	_	_
+2	కమలకు	_	PROPN	PROPN	_	4	obj	_	_
+3	పుస్తకం	_	NOUN	NOUN	_	4	obj	_	_
+4	ఇచ్చింది	_	VERB	VERB	_	5	acl	_	_
+5	రాము	_	PROPN	PROPN	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  361
+# text =  మీరు ఉంటే గాని , నేను రాను .
+1	మీరు	_	PRON	PRON	_	2	nsubj	_	_
+2	ఉంటే	_	VERB	VERB	_	6	advcl:cond	_	_
+3	గాని	_	SCONJ	SCONJ	_	2	mark	_	_
+4	,	_	PUNCT	PUNCT	_	6	punct	_	_
+5	నేను	_	PRON	PRON	_	6	nsubj	_	_
+6	రాను	_	VERB	VERB	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id =  362
+# text =  ఆయన చదివితేగాని , మేము వినం .
+1	ఆయన	_	PRON	PRON	_	2	nsubj	_	_
+2	చదివితేగాని	_	VERB	VERB	_	5	advcl:cond	_	_
+3	,	_	PUNCT	PUNCT	_	5	punct	_	_
+4	మేము	_	PRON	PRON	_	5	nsubj	_	_
+5	వినం	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  367
+# text =  వాడు డబడబా వెళ్ళేడు .
+1	వాడు	_	PRON	PRON	_	3	nsubj	_	_
+2	డబడబా	_	ADV	ADV	_	3	advmod	_	_
+3	వెళ్ళేడు	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  376
+# text =  మాకు పాట ఒకటి వినాలని ఉంది .
+1	మాకు	_	PRON	PRON	_	5	nsubj:nc	_	_
+2	పాట	_	NOUN	NOUN	_	4	obj	_	_
+3	ఒకటి	_	NUM	NUM	_	2	nummod	_	_
+4	వినాలని	_	VERB	VERB	_	5	ccomp	_	_
+5	ఉంది	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  383
+# text =  వాడికి అప్పుడప్పుడు పిచ్చి ఎక్కుతుంది .
+1	వాడికి	_	PRON	PRON	_	4	nsubj	_	_
+2	అప్పుడప్పుడు	_	ADV	ADV	_	4	advmod	_	_
+3	పిచ్చి	_	NOUN	NOUN	_	4	compound:lvc	_	_
+4	ఎక్కుతుంది	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  384
+# text =  మొదటమొదట నాకు ఆయన సంగతి బాగా తెలియదు .
+1	మొదటమొదట	_	ADV	ADV	_	6	advmod	_	_
+2	నాకు	_	PRON	PRON	_	6	obj	_	_
+3	ఆయన	_	PRON	PRON	_	4	nmod	_	_
+4	సంగతి	_	NOUN	NOUN	_	6	nsubj	_	_
+5	బాగా	_	ADV	ADV	_	6	advmod	_	_
+6	తెలియదు	_	VERB	VERB	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id =  386
+# text =  నెల నెలా జీతం డబ్బులోనుంచి భార్యకు కాసులు కొనేవాడు .
+1	నెల	_	NOUN	NOUN	_	2	compound:redup	_	_
+2	నెలా	_	NOUN	NOUN	_	7	obl:tmod	_	_
+3	జీతం	_	NOUN	NOUN	_	4	nmod	_	_
+4	డబ్బులోనుంచి	_	NOUN	NOUN	_	7	obl	_	_
+5	భార్యకు	_	NOUN	NOUN	_	7	iobj	_	_
+6	కాసులు	_	NOUN	NOUN	_	7	obj	_	_
+7	కొనేవాడు	_	VERB	VERB	_	0	root	_	_
+8	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id =  388
+# text =  ఊరూరా ప్రదర్శనలు ఇస్తూ పోతాం .
+1	ఊరూరా	_	ADV	ADV	_	4	advmod	_	_
+2	ప్రదర్శనలు	_	NOUN	NOUN	_	4	obj	_	_
+3	ఇస్తూ	_	VERB	VERB	_	4	compound	_	_
+4	పోతాం	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  391
+# text =  మీరు మెల్లమెల్లగా నడవాలి .
+1	మీరు	_	PRON	PRON	_	3	nsubj	_	_
+2	మెల్లమెల్లగా	_	ADV	ADV	_	3	advmod	_	_
+3	నడవాలి	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  392
+# text =  నీళ్ళు పోసుకొన్నాడు .
+1	నీళ్ళు	_	NOUN	NOUN	_	2	obj	_	_
+2	పోసుకొన్నాడు	_	VERB	VERB	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  394
+# text =  వాళ్ళు మాట్లాడుకొంటున్నారు .
+1	వాళ్ళు	_	PRON	PRON	_	2	nsubj	_	_
+2	మాట్లాడుకొంటున్నారు	_	VERB	VERB	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  397
+# text =  ఆమె పండ్లు అమ్ముకొన్నది .
+1	ఆమె	_	PRON	PRON	_	3	nsubj	_	_
+2	పండ్లు	_	NOUN	NOUN	_	3	obj	_	_
+3	అమ్ముకొన్నది	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  410
+# text =  నేను చూసినవాడు పారిపోయేడు .
+1	నేను	_	PRON	PRON	_	2	obj	_	_
+2	చూసినవాడు	_	VERB	VERB	_	3	csubj	_	_
+3	పారిపోయేడు	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  411
+# text =  నేను ఇచ్చినది మీ చేతిలో ఉన్నది .
+1	నేను	_	PRON	PRON	_	2	nsubj	_	_
+2	ఇచ్చినది	_	VERB	VERB	_	5	csubj	_	_
+3	మీ	_	PRON	PRON	_	4	nmod:poss	_	_
+4	చేతిలో	_	NOUN	NOUN	_	5	obl	_	_
+5	ఉన్నది	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  414
+# text =  నేను అడిగేది ఇది .
+1	నేను	_	PRON	PRON	_	2	nsubj	_	_
+2	అడిగేది	_	VERB	VERB	_	3	acl:relcl	_	_
+3	ఇది	_	PRON	PRON	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  415
+# text =  నిన్న వచ్చిన వాళ్ళని చూసేను .
+1	నిన్న	_	NOUN	NOUN	_	2	obl:tmod	_	_
+2	వచ్చిన	_	VERB	VERB	_	3	acl:relcl	_	_
+3	వాళ్ళని	_	PRON	PRON	_	4	obj	_	_
+4	చూసేను	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  430
+# text =  ఆమె ఎలా ఉంది ?
+1	ఆమె	_	PRON	PRON	_	3	nsubj	_	_
+2	ఎలా	_	ADV	ADV	_	3	advmod	_	_
+3	ఉంది	_	VERB	VERB	_	0	root	_	_
+4	?	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  451
+# text =  అతను వెళ్ళిపోవటం చూసీ చూడనట్లు ఊరుకొంది .
+1	అతను	_	PRON	PRON	_	2	nsubj	_	_
+2	వెళ్ళిపోవటం	_	VERB	VERB	_	4	ccomp	_	_
+3	చూసీ	_	VERB	VERB	_	4	compound:svc	_	_
+4	చూడనట్లు	_	VERB	VERB	_	5	advcl	_	_
+5	ఊరుకొంది	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  452
+# text =  మీ ఉత్తరం అందీ అందటంతోటే , జవాబు పంపేను .
+1	మీ	_	PRON	PRON	_	2	nmod:poss	_	_
+2	ఉత్తరం	_	NOUN	NOUN	_	4	nsubj	_	_
+3	అందీ	_	VERB	VERB	_	4	compound:svc	_	_
+4	అందటంతోటే	_	VERB	VERB	_	7	advcl	_	_
+5	,	_	PUNCT	PUNCT	_	7	punct	_	_
+6	జవాబు	_	NOUN	NOUN	_	7	obj	_	_
+7	పంపేను	_	VERB	VERB	_	0	root	_	_
+8	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id =  486
+# text =  వాడు ఈ పని చెయ్యలేదు .
+1	వాడు	_	PRON	PRON	_	4	nsubj	_	_
+2	ఈ	_	DET	DET	_	3	det	_	_
+3	పని	_	NOUN	NOUN	_	4	obj	_	_
+4	చెయ్యలేదు	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  498
+# text =  నేను వెళ్ళినంతవరకు . . .
+1	నేను	_	NOUN	NOUN	_	2	nsubj	_	_
+2	వెళ్ళినంతవరకు	_	VERB	VERB	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+4	.	_	PUNCT	PUNCT	_	2	punct	_	_
+5	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  508
+# text =  అదే నా పుస్తకం .
+1	అదే	_	PRON	PRON	_	3	nsubj	_	_
+2	నా	_	PRON	PRON	_	3	nmod:poss	_	_
+3	పుస్తకం	_	NOUN	NOUN	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  523
+# text =  ఆయన అప్పుడే వచ్చేడే !
+1	ఆయన	_	PRON	PRON	_	3	nsubj	_	_
+2	అప్పుడే	_	ADV	ADV	_	3	advmod	_	_
+3	వచ్చేడే	_	VERB	VERB	_	0	root	_	_
+4	!	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  540
+# text =  నాకు మాట్లాడే అవకాశం ఇవ్వండి .
+1	నాకు	_	PRON	PRON	_	4	iobj	_	_
+2	మాట్లాడే	_	VERB	VERB	_	3	acl	_	_
+3	అవకాశం	_	NOUN	NOUN	_	4	obj	_	_
+4	ఇవ్వండి	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  542
+# text =  నాకు నీలో బాగుపడే లక్షణాలు కనిపించడం లేదు .
+1	నాకు	_	PRON	PRON	_	6	obj	_	_
+2	నీలో	_	NOUN	NOUN	_	6	obl	_	_
+3	బాగుపడే	_	VERB	VERB	_	4	acl	_	_
+4	లక్షణాలు	_	NOUN	NOUN	_	6	csubj	_	_
+5	కనిపించడం	_	VERB	VERB	_	6	compound:lvc	_	_
+6	లేదు	_	VERB	VERB	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id =  547
+# text =  మేం ఆడవాళ్ళం .
+1	మేం	_	PRON	PRON	_	2	nsubj	_	_
+2	ఆడవాళ్ళం	_	NOUN	NOUN	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  565
+# text =  వాడు బీదవాడు .
+1	వాడు	_	PRON	PRON	_	2	nsubj	_	_
+2	బీదవాడు	_	NOUN	NOUN	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  568
+# text =  నేను బీదవాణ్ణి .
+1	నేను	_	PRON	PRON	_	2	nsubj	_	_
+2	బీదవాణ్ణి	_	NOUN	NOUN	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  575
+# text =  వాడు ఇంటికి రా లేదు .
+1	వాడు	_	PRON	PRON	_	4	nsubj	_	_
+2	ఇంటికి	_	NOUN	NOUN	_	4	obl	_	_
+3	రా	_	VERB	VERB	_	4	compound	_	_
+4	లేదు	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  583
+# text =  వీళ్ళు బిచ్చగాళ్ళు .
+1	వీళ్ళు	_	PRON	PRON	_	2	nsubj	_	_
+2	బిచ్చగాళ్ళు	_	NOUN	NOUN	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  599
+# text =  వాడు ఎవడు ?
+1	వాడు	_	PRON	PRON	_	2	nsubj	_	_
+2	ఎవడు	_	PRON	PRON	_	0	root	_	_
+3	?	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  607
+# text =  కమల పూలు కోసింది .
+1	కమల	_	PROPN	PROPN	_	3	nsubj	_	_
+2	పూలు	_	NOUN	NOUN	_	3	obj	_	_
+3	కోసింది	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  656
+# text =  ఇప్పుడు ఆమెకి ఎనిమిదో నెల .
+1	ఇప్పుడు	_	NOUN	NOUN	_	4	nmod:tmod	_	_
+2	ఆమెకి	_	NOUN	NOUN	_	4	nsubj:nc	_	_
+3	ఎనిమిదో	_	ADJ	ADJ	_	4	amod	_	_
+4	నెల	_	NOUN	NOUN	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  658
+# text =  సుబ్బారావు రేపు చేరతాడు .
+1	సుబ్బారావు	_	PROPN	PROPN	_	3	nsubj	_	_
+2	రేపు	_	NOUN	NOUN	_	3	obl:tmod	_	_
+3	చేరతాడు	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  664
+# text =  రామయ్య ఇడ్లీలు సాంబారుతో తింటాడు .
+1	రామయ్య	_	PROPN	PROPN	_	4	nsubj	_	_
+2	ఇడ్లీలు	_	NOUN	NOUN	_	4	obj	_	_
+3	సాంబారుతో	_	NOUN	NOUN	_	4	obl	_	_
+4	తింటాడు	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  677
+# text =  రాము వాళ్ళలో మొదటివాడు ; నేను మొదటివాణ్ణి పిలిచేను .
+1	రాము	_	PROPN	PROPN	_	3	nsubj	_	_
+2	వాళ్ళలో	_	PRON	PRON	_	3	obl	_	_
+3	మొదటివాడు	_	NOUN	NOUN	_	0	root	_	_
+4	;	_	PUNCT	PUNCT	_	3	punct	_	_
+5	నేను	_	PRON	PRON	_	7	nsubj	_	_
+6	మొదటివాణ్ణి	_	NOUN	NOUN	_	7	obj	_	_
+7	పిలిచేను	_	VERB	VERB	_	3	parataxis	_	_
+8	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id =  682
+# text =  వాడు తిట్టేడు .
+1	వాడు	_	PRON	PRON	_	2	nsubj	_	_
+2	తిట్టేడు	_	VERB	VERB	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  683
+# text =  నేను కొట్టేను .
+1	నేను	_	PRON	PRON	_	2	nsubj	_	_
+2	కొట్టేను	_	VERB	VERB	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  685
+# text =  వాడు నిన్ను తిట్టేడు .
+1	వాడు	_	PRON	PRON	_	3	nsubj	_	_
+2	నిన్ను	_	PRON	PRON	_	3	obj	_	_
+3	తిట్టేడు	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  688
+# text =  పిల్ల వాడికి ఆకలి ఐంది .
+1	పిల్ల	_	NOUN	NOUN	_	2	compound	_	_
+2	వాడికి	_	PRON	PRON	_	4	nsubj	_	_
+3	ఆకలి	_	NOUN	NOUN	_	4	compound:lvc	_	_
+4	ఐంది	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  692
+# text =  నీవు చిన్నవాడివి కాబట్టి , నా మాట వినాలి .
+1	నీవు	_	PRON	PRON	_	2	nsubj	_	_
+2	చిన్నవాడివి	_	PRON	PRON	_	7	advcl	_	_
+3	కాబట్టి	_	SCONJ	SCONJ	_	2	mark	_	_
+4	,	_	PUNCT	PUNCT	_	7	punct	_	_
+5	నా	_	PRON	PRON	_	6	nmod:poss	_	_
+6	మాట	_	NOUN	NOUN	_	7	obj	_	_
+7	వినాలి	_	VERB	VERB	_	0	root	_	_
+8	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id =  698
+# text =  వారు సిగరెట్లు తాగరు .
+1	వారు	_	PRON	PRON	_	3	nsubj	_	_
+2	సిగరెట్లు	_	NOUN	NOUN	_	3	obj	_	_
+3	తాగరు	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  701
+# text =  అది మా ఇల్లు కాదు .
+1	అది	_	PRON	PRON	_	4	nsubj	_	_
+2	మా	_	PRON	PRON	_	3	nmod:poss	_	_
+3	ఇల్లు	_	NOUN	NOUN	_	4	obj	_	_
+4	కాదు	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  706
+# text =  లక్ష రూపాయలు సంపాదించటం ఎంత అసాధ్యమో ఇదీ అంత అసాధ్యమే .
+1	లక్ష	_	NUM	NUM	_	2	nummod	_	_
+2	రూపాయలు	_	NOUN	NOUN	_	3	nsubj	_	_
+3	సంపాదించటం	_	VERB	VERB	_	5	csubj	_	_
+4	ఎంత	_	DET	DET	_	5	det	_	_
+5	అసాధ్యమో	_	NOUN	NOUN	_	8	ccomp	_	_
+6	ఇదీ	_	PRON	PRON	_	8	nsubj	_	_
+7	అంత	_	DET	DET	_	8	det	_	_
+8	అసాధ్యమే	_	NOUN	NOUN	_	0	root	_	_
+9	.	_	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id =  710
+# text =  ఎంత త్వరగా అయితే అంత మంచిది .
+1	ఎంత	_	DET	DET	_	2	det	_	_
+2	త్వరగా	_	ADV	ADV	_	3	advmod	_	_
+3	అయితే	_	VERB	VERB	_	5	ccomp	_	_
+4	అంత	_	DET	DET	_	5	det	_	_
+5	మంచిది	_	NOUN	NOUN	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  715
+# text =  మీరు ఎక్కడ ఉంటారు ?
+1	మీరు	_	PRON	PRON	_	3	nsubj	_	_
+2	ఎక్కడ	_	ADV	ADV	_	3	advmod	_	_
+3	ఉంటారు	_	VERB	VERB	_	0	root	_	_
+4	?	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  740
+# text =  ఇది మెత్తని పక్క .
+1	ఇది	_	PRON	PRON	_	3	nsubj	_	_
+2	మెత్తని	_	NOUN	NOUN	_	3	nmod:poss	_	_
+3	పక్క	_	NOUN	NOUN	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  743
+# text =  దేవుడు అంతటా ఉన్నాడు .
+1	దేవుడు	_	NOUN	NOUN	_	3	nsubj	_	_
+2	అంతటా	_	ADV	ADV	_	3	advmod	_	_
+3	ఉన్నాడు	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  750
+# text =  లోపలికి రండి .
+1	లోపలికి	_	NOUN	NOUN	_	2	obl	_	_
+2	రండి	_	VERB	VERB	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  753
+# text =  కాయితాలు పెట్టె కింద ఉన్నాయ్ .
+1	కాయితాలు	_	NOUN	NOUN	_	4	nsubj	_	_
+2	పెట్టె	_	NOUN	NOUN	_	4	obl	_	_
+3	కింద	_	ADP	ADP	_	2	case	_	_
+4	ఉన్నాయ్	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  755
+# text =  ఊరిబైట గుడి ఉన్నది .
+1	ఊరిబైట	_	NOUN	NOUN	_	3	obl	_	_
+2	గుడి	_	NOUN	NOUN	_	3	nsubj	_	_
+3	ఉన్నది	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  756
+# text =  మా ఊరు కృష్ణా నది దగ్గిర ఉన్నది .
+1	మా	_	PRON	PRON	_	2	nmod:poss	_	_
+2	ఊరు	_	NOUN	NOUN	_	6	nsubj	_	_
+3	కృష్ణా	_	PROPN	PROPN	_	4	compound	_	_
+4	నది	_	NOUN	NOUN	_	6	obl	_	_
+5	దగ్గిర	_	ADP	ADP	_	4	case	_	_
+6	ఉన్నది	_	VERB	VERB	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id =  769
+# text =  ఈ పుస్తకం నాకు నెల రోజులపాటు ఇస్తారా ?
+1	ఈ	_	DET	DET	_	2	det	_	_
+2	పుస్తకం	_	NOUN	NOUN	_	6	obj	_	_
+3	నాకు	_	PRON	PRON	_	6	iobj	_	_
+4	నెల	_	NOUN	NOUN	_	5	nmod	_	_
+5	రోజులపాటు	_	NOUN	NOUN	_	6	obl:tmod	_	_
+6	ఇస్తారా	_	VERB	VERB	_	0	root	_	_
+7	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id =  771
+# text =  పుట్టక పుట్టక కొడుకు పుట్టేడు .
+1	పుట్టక	_	VERB	VERB	_	2	compound:redup	_	_
+2	పుట్టక	_	VERB	VERB	_	4	advcl	_	_
+3	కొడుకు	_	NOUN	NOUN	_	4	nsubj	_	_
+4	పుట్టేడు	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  780
+# text =  వాడు రాకపోయినా , నేను వెళ్తాను .
+1	వాడు	_	PRON	PRON	_	2	nsubj	_	_
+2	రాకపోయినా	_	VERB	VERB	_	5	advcl	_	_
+3	,	_	PUNCT	PUNCT	_	5	punct	_	_
+4	నేను	_	PRON	PRON	_	5	nsubj	_	_
+5	వెళ్తాను	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  784
+# text =  నువ్వూ నాతో రా !
+1	నువ్వూ	_	PRON	PRON	_	3	nsubj	_	_
+2	నాతో	_	PRON	PRON	_	3	obl	_	_
+3	రా	_	VERB	VERB	_	0	root	_	_
+4	!	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  800
+# text =  ఒక రోజంతా దయాల్బాగ్లో గడిపేడు .
+1	ఒక	_	NUM	NUM	_	2	nummod	_	_
+2	రోజంతా	_	NOUN	NOUN	_	4	obl:tmod	_	_
+3	దయాల్బాగ్లో	_	PROPN	PROPN	_	4	obl	_	_
+4	గడిపేడు	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  802
+# text =  రెండు చేతులతోనూ నన్ను పట్టుకుని కౌగిలించేడు .
+1	రెండు	_	NUM	NUM	_	2	nummod	_	_
+2	చేతులతోనూ	_	NOUN	NOUN	_	5	obl	_	_
+3	నన్ను	_	NOUN	NOUN	_	5	obj	_	_
+4	పట్టుకుని	_	VERB	VERB	_	5	advcl	_	_
+5	కౌగిలించేడు	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  825
+# text =  ఏమిటో ఇక్కడ కొంత కాలం ఉండాలనిపించింది .
+1	ఏమిటో	_	PART	PART	_	5	discourse	_	_
+2	ఇక్కడ	_	ADV	ADV	_	5	advmod	_	_
+3	కొంత	_	DET	DET	_	4	det	_	_
+4	కాలం	_	NOUN	NOUN	_	5	obl:tmod	_	_
+5	ఉండాలనిపించింది	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  850
+# text =  రాము ఇంటికి వెళ్ళి, పేపరు చదువుతాడు .
+1	రాము	_	PROPN	PROPN	_	3	nsubj	_	_
+2	ఇంటికి	_	NOUN	NOUN	_	3	obl	_	_
+3	వెళ్ళి,	_	VERB	VERB	_	0	root	_	_
+4	పేపరు	_	NOUN	NOUN	_	5	obj	_	_
+5	చదువుతాడు	_	VERB	VERB	_	3	conj	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  855
+# text =  రాము ఇడ్లీలు తింటాడు .
+1	రాము	_	PROPN	PROPN	_	3	nsubj	_	_
+2	ఇడ్లీలు	_	NOUN	NOUN	_	3	obj	_	_
+3	తింటాడు	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  857
+# text =  రాము ఇడ్లీలు తిని , కాఫీ తాగేడు .
+1	రాము	_	PROPN	PROPN	_	6	nsubj	_	_
+2	ఇడ్లీలు	_	NOUN	NOUN	_	3	obj	_	_
+3	తిని	_	VERB	VERB	_	6	advcl	_	_
+4	,	_	PUNCT	PUNCT	_	6	punct	_	_
+5	కాఫీ	_	NOUN	NOUN	_	6	obj	_	_
+6	తాగేడు	_	VERB	VERB	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id =  858
+# text =  రాము ఇడ్లీలు తింటాడు , కాఫీ తాగేడు .
+1	రాము	_	NOUN	NOUN	_	3	nsubj	_	_
+2	ఇడ్లీలు	_	NOUN	NOUN	_	3	obj	_	_
+3	తింటాడు	_	VERB	VERB	_	0	root	_	_
+4	,	_	PUNCT	PUNCT	_	6	punct	_	_
+5	కాఫీ	_	NOUN	NOUN	_	6	obj	_	_
+6	తాగేడు	_	VERB	VERB	_	3	conj	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id =  864
+# text =  రాము తొందరగాను కమల మెల్లగాను నడుస్తారు .
+1	రాము	_	PROPN	PROPN	_	5	nsubj	_	_
+2	తొందరగాను	_	ADV	ADV	_	1	orphan	_	_
+3	కమల	_	PROPN	PROPN	_	1	conj	_	_
+4	మెల్లగాను	_	ADV	ADV	_	5	advmod	_	_
+5	నడుస్తారు	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  870
+# text =  మీరు క్లేసుకు రావటం ఎందుకు ?
+1	మీరు	_	PRON	PRON	_	3	nsubj	_	_
+2	క్లేసుకు	_	NOUN	NOUN	_	3	obl	_	_
+3	రావటం	_	VERB	VERB	_	0	root	_	_
+4	ఎందుకు	_	ADV	ADV	_	3	advmod	_	_
+5	?	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  871
+# text =  పిల్లలు వెళ్ళటం ఎక్కడికి ?
+1	పిల్లలు	_	NOUN	NOUN	_	2	nsubj	_	_
+2	వెళ్ళటం	_	VERB	VERB	_	0	root	_	_
+3	ఎక్కడికి	_	NOUN	NOUN	_	2	obl	_	_
+4	?	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  889
+# text =  డజన్ అంటే పన్నెండు .
+1	డజన్	_	NUM	NUM	_	2	nsubj	_	_
+2	అంటే	_	NOUN	NOUN	_	0	root	_	_
+3	పన్నెండు	_	NUM	NUM	_	2	obj	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  894
+# text =  హృదయంలో ఏడుపు , కోపం నేను ముందు అంటే , నేను ముందు అంటున్నాయి .
+1	హృదయంలో	_	NOUN	NOUN	_	11	obl	_	_
+2	ఏడుపు	_	NOUN	NOUN	_	11	nsubj	_	_
+3	,	_	PUNCT	PUNCT	_	4	punct	_	_
+4	కోపం	_	NOUN	NOUN	_	2	conj	_	_
+5	నేను	_	PRON	PRON	_	7	nsubj	_	_
+6	ముందు	_	ADV	ADV	_	5	appos	_	_
+7	అంటే	_	VERB	VERB	_	11	ccomp	_	_
+8	,	_	PUNCT	PUNCT	_	9	punct	_	_
+9	నేను	_	PRON	PRON	_	7	conj	_	_
+10	ముందు	_	ADV	ADV	_	9	appos	_	_
+11	అంటున్నాయి	_	VERB	VERB	_	0	root	_	_
+12	.	_	PUNCT	PUNCT	_	11	punct	_	_
+
+# sent_id =  897
+# text =  మా తమ్ముణ్ణి చూడాలి అంటే , పిలుస్తాను .
+1	మా	_	PRON	PRON	_	2	nmod:poss	_	_
+2	తమ్ముణ్ణి	_	NOUN	NOUN	_	3	obj	_	_
+3	చూడాలి	_	VERB	VERB	_	6	advcl	_	_
+4	అంటే	_	SCONJ	SCONJ	_	3	mark	_	_
+5	,	_	PUNCT	PUNCT	_	6	punct	_	_
+6	పిలుస్తాను	_	VERB	VERB	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id =  904
+# text =  మీరు వస్తారు అనే ఆశ ..
+1	మీరు	_	PRON	PRON	_	2	nsubj	_	_
+2	వస్తారు	_	VERB	VERB	_	4	acl	_	_
+3	అనే	_	SCONJ	SCONJ	_	2	mark	_	_
+4	ఆశ	_	NOUN	NOUN	_	0	root	_	_
+5	..	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  906
+# text =  మానవుడు నా అనే వ్యక్తులకోసం బతుకుతాడు , తన కోసం కాదు .
+1	మానవుడు	_	NOUN	NOUN	_	5	nsubj	_	_
+2	నా	_	PRON	PRON	_	4	nsubj	_	_
+3	అనే	_	SCONJ	SCONJ	_	2	mark	_	_
+4	వ్యక్తులకోసం	_	NOUN	NOUN	_	5	ccomp	_	_
+5	బతుకుతాడు	_	VERB	VERB	_	0	root	_	_
+6	,	_	PUNCT	PUNCT	_	9	punct	_	_
+7	తన	_	PRON	PRON	_	9	nsubj	_	_
+8	కోసం	_	ADP	ADP	_	7	case	_	_
+9	కాదు	_	VERB	VERB	_	5	parataxis	_	_
+10	.	_	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id =  910
+# text =  మేం ఇంటికి వెళ్ళేం .
+1	మేం	_	PRON	PRON	_	3	nsubj	_	_
+2	ఇంటికి	_	NOUN	NOUN	_	3	obl	_	_
+3	వెళ్ళేం	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  934
+# text =  వాణ్ణి ఎద్దు కొమ్ములతో పొడిచింది .
+1	వాణ్ణి	_	PRON	PRON	_	4	obj	_	_
+2	ఎద్దు	_	NOUN	NOUN	_	4	nsubj	_	_
+3	కొమ్ములతో	_	NOUN	NOUN	_	4	obl	_	_
+4	పొడిచింది	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  956
+# text =  ఆవు మేతకు వెళ్ళింది .
+1	ఆవు	_	NOUN	NOUN	_	3	nsubj	_	_
+2	మేతకు	_	NOUN	NOUN	_	3	obl	_	_
+3	వెళ్ళింది	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  964
+# text =  వాడు డబ్బు కోసం ప్రయత్నిస్తున్నాడు .
+1	వాడు	_	PRON	PRON	_	4	nsubj	_	_
+2	డబ్బు	_	NOUN	NOUN	_	4	obl	_	_
+3	కోసం	_	ADP	ADP	_	2	case	_	_
+4	ప్రయత్నిస్తున్నాడు	_	NOUN	NOUN	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  967
+# text =  ఇది నా కన్నా ఎక్కువ ఎవరికి తెలుసు ?
+1	ఇది	_	PRON	PRON	_	6	obj	_	_
+2	నా	_	PRON	PRON	_	5	nmod:cmp	_	_
+3	కన్నా	_	ADP	ADP	_	2	case	_	_
+4	ఎక్కువ	_	NOUN	NOUN	_	2	clf	_	_
+5	ఎవరికి	_	PRON	PRON	_	6	nsubj:nc	_	_
+6	తెలుసు	_	VERB	VERB	_	0	root	_	_
+7	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id =  980
+# text =  నేను ఈ సంగతి మీతో మాట్లాడగూడదు .
+1	నేను	_	PRON	PRON	_	5	nsubj	_	_
+2	ఈ	_	DET	DET	_	3	det	_	_
+3	సంగతి	_	NOUN	NOUN	_	5	obj	_	_
+4	మీతో	_	PRON	PRON	_	5	obl	_	_
+5	మాట్లాడగూడదు	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  983
+# text =  నాకు ఆ సంగతి పదేళ్ళ కిందట తెలుసు .
+1	నాకు	_	PRON	PRON	_	6	obj	_	_
+2	ఆ	_	DET	DET	_	3	det	_	_
+3	సంగతి	_	NOUN	NOUN	_	6	nsubj	_	_
+4	పదేళ్ళ	_	NOUN	NOUN	_	6	obl:tmod	_	_
+5	కిందట	_	ADP	ADP	_	4	case	_	_
+6	తెలుసు	_	VERB	VERB	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id =  995
+# text =  ఆయన వస్తాడు .
+1	ఆయన	_	PRON	PRON	_	2	nsubj	_	_
+2	వస్తాడు	_	VERB	VERB	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  1021
+# text =  అతనికి తెలుగు వచ్చు .
+1	అతనికి	_	PRON	PRON	_	3	obj	_	_
+2	తెలుగు	_	NOUN	NOUN	_	3	nsubj	_	_
+3	వచ్చు	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  1032
+# text =  చాలు లే !
+1	చాలు	_	VERB	VERB	_	0	root	_	_
+2	లే	_	PART	PART	_	1	discourse	_	_
+3	!	_	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id =  1064
+# text =  ఇల్లు అమ్మితే , డబ్బు వస్తుంది .
+1	ఇల్లు	_	NOUN	NOUN	_	2	nsubj	_	_
+2	అమ్మితే	_	VERB	VERB	_	5	advcl:cond	_	_
+3	,	_	PUNCT	PUNCT	_	5	punct	_	_
+4	డబ్బు	_	NOUN	NOUN	_	5	nsubj	_	_
+5	వస్తుంది	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  1067
+# text =  అన్నం పెడితే , పిల్లలు ఏడవరు .
+1	అన్నం	_	NOUN	NOUN	_	2	nsubj	_	_
+2	పెడితే	_	VERB	VERB	_	5	advcl:cond	_	_
+3	,	_	PUNCT	PUNCT	_	5	punct	_	_
+4	పిల్లలు	_	NOUN	NOUN	_	5	nsubj	_	_
+5	ఏడవరు	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  1078
+# text =  పదిపదులు నూరు .
+1	పదిపదులు	_	NUM	NUM	_	2	nummod	_	_
+2	నూరు	_	NUM	NUM	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  1100
+# text =  వాడు నన్ను కొట్టబోయేడు .
+1	వాడు	_	PRON	PRON	_	3	nsubj	_	_
+2	నన్ను	_	PRON	PRON	_	3	obj	_	_
+3	కొట్టబోయేడు	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  1115
+# text =  ఆ అమ్మాయి అందంగా ఉన్నది .
+1	ఆ	_	DET	DET	_	2	det	_	_
+2	అమ్మాయి	_	NOUN	NOUN	_	4	nsubj	_	_
+3	అందంగా	_	ADV	ADV	_	4	advmod	_	_
+4	ఉన్నది	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  1116
+# text =  మీరు కులాసాగా ఉన్నారా ?
+1	మీరు	_	PRON	PRON	_	3	nsubj	_	_
+2	కులాసాగా	_	ADV	ADV	_	3	advmod	_	_
+3	ఉన్నారా	_	VERB	VERB	_	0	root	_	_
+4	?	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  1118
+# text =  నేను ఏం చేస్తే న్యాయంగా ఉంటుంది ?
+1	నేను	_	PRON	PRON	_	3	nsubj	_	_
+2	ఏం	_	PRON	PRON	_	3	obj	_	_
+3	చేస్తే	_	VERB	VERB	_	5	csubj	_	_
+4	న్యాయంగా	_	ADV	ADV	_	5	advmod	_	_
+5	ఉంటుంది	_	VERB	VERB	_	0	root	_	_
+6	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  1126
+# text =  ఆమె నాకు ఎదురుగా కూర్చుంది .
+1	ఆమె	_	PRON	PRON	_	4	nsubj	_	_
+2	నాకు	_	PRON	PRON	_	4	obl	_	_
+3	ఎదురుగా	_	ADV	ADV	_	4	advmod	_	_
+4	కూర్చుంది	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  1132
+# text =  వాళ్ళు బొమ్మల కొలువు పెట్టేరు .
+1	వాళ్ళు	_	PRON	PRON	_	4	nsubj	_	_
+2	బొమ్మల	_	NOUN	NOUN	_	3	nmod:poss	_	_
+3	కొలువు	_	NOUN	NOUN	_	4	obj	_	_
+4	పెట్టేరు	_	NOUN	NOUN	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  1146
+# text =  విమల చెల్లెలు .
+1	విమల	_	PROPN	PROPN	_	2	nsubj	_	_
+2	చెల్లెలు	_	NOUN	NOUN	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  1147
+# text =  కమలా విమలలు అక్కాచెల్లెళ్ళు .
+1	కమలా	_	PROPN	PROPN	_	3	nsubj	_	_
+2	విమలలు	_	PROPN	PROPN	_	1	conj	_	_
+3	అక్కాచెల్లెళ్ళు	_	NOUN	NOUN	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  1152
+# text =  వాళ్ళకు ముగ్గురు పిల్లలు .
+1	వాళ్ళకు	_	PRON	PRON	_	3	nsubj:nc	_	_
+2	ముగ్గురు	_	ADJ	ADJ	_	3	amod	_	_
+3	పిల్లలు	_	NOUN	NOUN	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  1184
+# text =  ఇవి కొత్తవి కాదు .
+1	ఇవి	_	PRON	PRON	_	3	nsubj	_	_
+2	కొత్తవి	_	NOUN	NOUN	_	3	obj	_	_
+3	కాదు	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  1191
+# text =  ఆమె చక్కనిది .
+1	ఆమె	_	PRON	PRON	_	2	nsubj	_	_
+2	చక్కనిది	_	NOUN	NOUN	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  1195
+# text =  ఆయన గొప్పవాడు .
+1	ఆయన	_	PRON	PRON	_	2	nsubj	_	_
+2	గొప్పవాడు	_	NOUN	NOUN	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  1197
+# text =  ఇంటికి వెళ్ళు .
+1	ఇంటికి	_	NOUN	NOUN	_	2	obl	_	_
+2	వెళ్ళు	_	VERB	VERB	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  1203
+# text =  మా ఊరికి రా .
+1	మా	_	PRON	PRON	_	2	nmod:poss	_	_
+2	ఊరికి	_	NOUN	NOUN	_	3	obl	_	_
+3	రా	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  1211
+# text =  వాడికి డబ్బు ఇవ్వకండి .
+1	వాడికి	_	PRON	PRON	_	3	obj	_	_
+2	డబ్బు	_	NOUN	NOUN	_	3	iobj	_	_
+3	ఇవ్వకండి	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  1212
+# text =  ఈ పుస్తకాలు కొనండి .
+1	ఈ	_	DET	DET	_	2	det	_	_
+2	పుస్తకాలు	_	NOUN	NOUN	_	3	obj	_	_
+3	కొనండి	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  1216
+# text =  కమల అందగత్తె .
+1	కమల	_	PROPN	PROPN	_	2	nsubj	_	_
+2	అందగత్తె	_	NOUN	NOUN	_	0	root	_	_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id =  1233
+# text =  వాడు వాళ్ళు క్షేమంగా చేరినట్లు రాసేడు .
+1	వాడు	_	PRON	PRON	_	5	nsubj	_	_
+2	వాళ్ళు	_	PRON	PRON	_	4	nsubj	_	_
+3	క్షేమంగా	_	ADV	ADV	_	4	advmod	_	_
+4	చేరినట్లు	_	VERB	VERB	_	5	ccomp	_	_
+5	రాసేడు	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  1240
+# text =  రెండు మూడు వందల రూపాయలు ఖర్చు పెడితే గాని , పొలాలు మామూలు స్థితిలోకి వచ్చేటట్లు లేవు .
+1	రెండు	_	NUM	NUM	_	3	nummod	_	_
+2	మూడు	_	NUM	NUM	_	3	nummod	_	_
+3	వందల	_	NOUN	NOUN	_	4	amod	_	_
+4	రూపాయలు	_	NOUN	NOUN	_	6	nsubj	_	_
+5	ఖర్చు	_	NOUN	NOUN	_	6	compound:lvc	_	_
+6	పెడితే	_	VERB	VERB	_	13	advcl	_	_
+7	గాని	_	CCONJ	CCONJ	_	6	mark	_	_
+8	,	_	PUNCT	PUNCT	_	13	punct	_	_
+9	పొలాలు	_	NOUN	NOUN	_	13	nsubj	_	_
+10	మామూలు	_	ADJ	ADJ	_	11	amod	_	_
+11	స్థితిలోకి	_	NOUN	NOUN	_	13	obl	_	_
+12	వచ్చేటట్లు	_	VERB	VERB	_	13	compound:lvc	_	_
+13	లేవు	_	VERB	VERB	_	0	root	_	_
+14	.	_	PUNCT	PUNCT	_	13	punct	_	_
+
+# sent_id =  1264
+# text =  జూన్లో ఇక్కడ వానలు పడుతున్నాయి .
+1	జూన్లో	_	NOUN	NOUN	_	4	obl:tmod	_	_
+2	ఇక్కడ	_	ADV	ADV	_	4	advmod	_	_
+3	వానలు	_	NOUN	NOUN	_	4	nsubj	_	_
+4	పడుతున్నాయి	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id =  1268
+# text =  నాకు ఈ దేశం కొత్తగా ఉంది .
+1	నాకు	_	PRON	PRON	_	5	obj	_	_
+2	ఈ	_	DET	DET	_	3	det	_	_
+3	దేశం	_	NOUN	NOUN	_	5	nsubj	_	_
+4	కొత్తగా	_	ADV	ADV	_	5	advmod	_	_
+5	ఉంది	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id =  1311
+# text =  ఇది నా కలం .
+1	ఇది	_	PRON	PRON	_	3	nsubj	_	_
+2	నా	_	PRON	PRON	_	3	nmod:poss	_	_
+3	కలం	_	NOUN	NOUN	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  1312
+# text =  ఇది మా అమ్మాయి .
+1	ఇది	_	PRON	PRON	_	3	nsubj	_	_
+2	మా	_	PRON	PRON	_	3	nmod:poss	_	_
+3	అమ్మాయి	_	NOUN	NOUN	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id =  1316
+# text =  అది మీ నాన్నగారి ఊరు .
+1	అది	_	PRON	PRON	_	4	nsubj	_	_
+2	మీ	_	PRON	PRON	_	3	nmod:poss	_	_
+3	నాన్నగారి	_	NOUN	NOUN	_	4	nmod:poss	_	_
+4	ఊరు	_	NOUN	NOUN	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
