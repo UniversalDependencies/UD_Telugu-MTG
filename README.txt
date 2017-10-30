@@ -11,15 +11,13 @@ Contact: tarakark@ifi.uio.no, sowmya@iastate.edu
 This repository contains a grammar-book dependency treebank of Telugu. The sentences in the treebank are from Modern Telugu Grammar (Krishnamurti and Gwynn 1985). The sentences are annotated following guidelines of Universal Dependencies project. The treebank is manually annotated by Taraka Rama and Sowmya Vajjala. Çağrı Çöltekin helped with setting the annotation software.
 
 Basic Stats:
-Tree count:  2656  
-Word count:  12930  
-Token count: 12930  
-Dep. relations: 42 of which 11 language specific  
-POS tags: 14  
-Category=value feature pairs: 0  
+Tree count:  1328
+Word count:  6465
+Token count: 6465
+Dep. relations: 42 of which 11 language specific
+POS tags: 14
 
-We are submitting a paper on the treebank to TLT 2017.
+Note: We are submitting a paper on the treebank to TLT 2017. 
 
 References:
 * Bhadriraju Krishnamurti and J. P. L. Gwynn. 1985. A Grammar of Modern Telugu. Oxford: Oxford University Press. xxii+459pp.
-
