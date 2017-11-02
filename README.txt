@@ -17,14 +17,12 @@ Taraka Rama (University of Oslo, Norway) and Sowmya Vajjala (Iowa State Universi
 # Domains and Data Split
 
 
-Basic Stats:
+# Basic Stats:
 Tree count:  1328
 Word count:  6465
 Token count: 6465
 Dep. relations: 42 of which 11 language specific
 POS tags: 14
-
-Note: We are submitting a paper on the treebank to TLT 2017. 
 
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Documentation status: stub
