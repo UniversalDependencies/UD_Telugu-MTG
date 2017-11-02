@@ -15,7 +15,7 @@ Taraka Rama (University of Oslo, Norway) and Sowmya Vajjala (Iowa State Universi
 * Bhadriraju Krishnamurti and J. P. L. Gwynn. 1985. A Grammar of Modern Telugu. Oxford: Oxford University Press. xxii+459pp.
 
 # Domains and Data Split
-The sentences are from grammar book examples, and contain the vocabulary spanning different genres. 
+
 
 Basic Stats:
 Tree count:  1328
