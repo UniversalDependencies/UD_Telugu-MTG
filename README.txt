@@ -9,7 +9,7 @@ The Telugu UD treebank consists of 1328 sentences (6465 tokens) and its domain i
 
 # Acknowledgments
 
-Taraka Rama (University of Oslo, Norway) and Sowmya Vajjala (Iowa State University, USA) manually annotated the sentences. Çağrı Çöltekin (University of Tuebingen, Germany) helped with setting up and hosting the server for annotation interface.
+Taraka Rama (University of Oslo, Norway) and Sowmya Vajjala (Iowa State University, USA) manually annotated the sentences. Çağrı Çöltekin (University of Tuebingen, Germany) helped with setting up and hosting the server for annotation interface. Dan Zeman (Charles University, Czech Republic) did the Roman transliteration. 
 
 ## References
 * Bhadriraju Krishnamurti and J. P. L. Gwynn. 1985. A Grammar of Modern Telugu. Oxford: Oxford University Press. xxii+459pp.
