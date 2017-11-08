@@ -1071,10 +1071,10 @@
 
 # sent_id = 150
 # text = వాడికి ఆకలి ఎక్కువ .
-# translit = vāḍiki ākali ekkuwa .
+# translit = vāḍiki ākali èkkuva .
 1	వాడికి	_	PRON	PRON	_	2	nsubj:nc	_	Translit=vāḍiki|LTranslit=_
 2	ఆకలి	_	NOUN	NOUN	_	0	root	_	Translit=ākali|LTranslit=_
-3	ekkuwa	_	DET	DET	_	2	det	_	Translit=ekkuwa|LTranslit=_
+3	ఎక్కువ	_	DET	DET	_	2	det	_	Translit=èkkuva|LTranslit=_
 4	.	_	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=_
 
 # sent_id = 151
