@@ -1,11 +1,42 @@
+
+# Summary
+
+The Telugu UD treebank is created in UD based on manual annotations of sentences from a grammar book.
+
+# Introduction
+
+The Telugu UD treebank consists of 1328 sentences (6465 tokens) and its domain is grammar book examples from Modern Telugu Grammar (Krishnamurti and Gwynn 1985). The treebank is licensed under the terms of CC BY-NC-SA 3.0. The sentences are manually annotated following UD guidelines. 
+
+# Acknowledgments
+
+Taraka Rama (University of Oslo, Norway) and Sowmya Vajjala (Iowa State University, USA) manually annotated the sentences. Çağrı Çöltekin (University of Tuebingen, Germany) helped with setting up and hosting the server for annotation interface. Dan Zeman (Charles University, Czech Republic) did the Roman transliteration. 
+
+## References
+* Bhadriraju Krishnamurti and J. P. L. Gwynn. 1985. A Grammar of Modern Telugu. Oxford: Oxford University Press. xxii+459pp.
+
+# Domains and Data Split
+
+
+# Basic Stats:
+Tree count:  1328
+Word count:  6465
+Token count: 6465
+Dep. relations: 42 of which 11 language specific
+POS tags: 14
+
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Documentation status: stub
 Data source: manual
 Data available since: UD v2.1
+Includes text: yes
 License: CC BY-SA 4.0
 Genre: grammar-examples
-Contributors: Vajjala, Sowmya; Rama, Taraka
-Contact: sowmya@iastate.edu, taraka-rama.kasicheyanula@uni-tuebingen.de
+Lemmas: manual native
+UPOS: manual native
+XPOS: none
+Features: none
+Relations: manual native
+Contributors: Rama, Taraka; Vajjala, Sowmya
+Contact: tarakark@ifi.uio.no, sowmya@iastate.edu
 ===============================================================================
 
-English transliteration is OCR version from the grammar book and has some typos. Telugu script is manually typed, and proofread, so that does not have those typos. 
