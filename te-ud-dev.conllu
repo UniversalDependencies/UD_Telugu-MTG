@@ -883,8 +883,8 @@
 1	అంగడికి	_	NOUN	NOUN	_	2	obl	_	Translit=aṁgaḍiki|LTranslit=_
 2	వెళ్తే	_	VERB	VERB	_	6	advcl:cond	_	Translit=vèḷte|LTranslit=_
 3	,	_	PUNCT	PUNCT	_	6	punct	_	Translit=,|LTranslit=_
-4	మామిడి	_	NOUN	NOUN	_	5	flat	_	Translit=māmiḍi|LTranslit=_
-5	పండ్లు	_	NOUN	NOUN	_	6	obj	_	Translit=paṁḍlu|LTranslit=_
+4	మామిడి	_	NOUN	NOUN	_	6	obj	_	Translit=māmiḍi|LTranslit=_
+5	పండ్లు	_	NOUN	NOUN	_	4	flat	_	Translit=paṁḍlu|LTranslit=_
 6	దొరుకుతాయి	_	VERB	VERB	_	0	root	_	Translit=dòrukutāyi|LTranslit=_
 7	.	_	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=_
 
