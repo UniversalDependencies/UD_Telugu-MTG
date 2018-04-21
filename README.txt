@@ -35,8 +35,8 @@ License: CC BY-SA 4.0
 Genre: grammar-examples
 Lemmas: manual native
 UPOS: manual native
-XPOS: none
-Features: none
+XPOS: not available
+Features: not available
 Relations: manual native
 Contributors: Rama, Taraka; Vajjala, Sowmya
 Contact: tarakark@ifi.uio.no, sowmya@iastate.edu
