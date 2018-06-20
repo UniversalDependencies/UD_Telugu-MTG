@@ -2009,9 +2009,9 @@
 # sent_id = 286
 # text = రెండురెండ్లు నాలుగు .
 # translit = rèṁḍurèṁḍlu nālugu .
-1	రెండురెండ్లు	_	NUM	NUM	NumType=Card	2	flat	_	Translit=rèṁḍurèṁḍlu|LTranslit=_
-2	నాలుగు	_	NUM	NUM	NumType=Card	0	root	_	Translit=nālugu|LTranslit=_
-3	.	_	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=_
+1	రెండురెండ్లు	_	NUM	NUM	NumType=Card	0	root	_	Translit=rèṁḍurèṁḍlu|LTranslit=_
+2	నాలుగు	_	NUM	NUM	NumType=Card	1	flat	_	Translit=nālugu|LTranslit=_
+3	.	_	PUNCT	PUNCT	_	1	punct	_	Translit=.|LTranslit=_
 
 # sent_id = 287
 # text = రూపాయికి నూరుపైసలు .
@@ -2023,8 +2023,8 @@
 # sent_id = 288
 # text = మూడు వందల రూపాయిలు ఖర్చు పెట్టేం .
 # translit = mūḍu vaṁdala rūpāyilu kharcu pèṭṭeṁ .
-1	మూడు	_	NUM	NUM	NumType=Card	2	flat	_	Translit=mūḍu|LTranslit=_
-2	వందల	_	NUM	NUM	NumType=Card	3	nummod	_	Translit=vaṁdala|LTranslit=_
+1	మూడు	_	NUM	NUM	NumType=Card	3	nummod	_	Translit=mūḍu|LTranslit=_
+2	వందల	_	NUM	NUM	NumType=Card	1	flat	_	Translit=vaṁdala|LTranslit=_
 3	రూపాయిలు	_	NOUN	NOUN	_	5	obj	_	Translit=rūpāyilu|LTranslit=_
 4	ఖర్చు	_	NOUN	NOUN	_	5	compound:lvc	_	Translit=kharcu|LTranslit=_
 5	పెట్టేం	_	VERB	VERB	_	0	root	_	Translit=pèṭṭeṁ|LTranslit=_
@@ -3998,9 +3998,9 @@
 1	యాభై	_	NUM	NUM	NumType=Card	3	nummod	_	Translit=yābhai|LTranslit=_
 2	లో	_	ADP	ADP	_	1	case	_	Translit=lo|LTranslit=_
 3	సగం	_	NUM	NUM	NumType=Card	0	root	_	Translit=sagaṁ|LTranslit=_
-4	ఇరవై	_	NUM	NUM	NumType=Card	5	flat	_	Translit=iravai|LTranslit=_
-5	ఐదు	_	NUM	NUM	NumType=Card	3	nummod	_	Translit=aidu|LTranslit=_
-6	.	_	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=_
+4	ఇరవై	_	NUM	NUM	NumType=Card	3	nummod	_	Translit=iravai|LTranslit=_
+5	ఐదు	_	NUM	NUM	NumType=Card	4	flat	_	Translit=aidu|LTranslit=_
+6	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=_
 
 # sent_id = 563
 # text = ఇది సగం పాలు , సగం నీళ్ళు .
@@ -5112,10 +5112,10 @@
 # sent_id = 722
 # text = ఎల్లుండి జులై తొమ్మిది .
 # translit = èlluṁḍi julai tòmmidi .
-1	ఎల్లుండి	_	NOUN	NOUN	_	3	nmod:tmod	_	Translit=èlluṁḍi|LTranslit=_
-2	జులై	_	NOUN	NOUN	_	3	flat	_	Translit=julai|LTranslit=_
-3	తొమ్మిది	_	NUM	NUM	NumType=Card	0	root	_	Translit=tòmmidi|LTranslit=_
-4	.	_	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=_
+1	ఎల్లుండి	_	NOUN	NOUN	_	2	nmod:tmod	_	Translit=èlluṁḍi|LTranslit=_
+2	జులై	_	NOUN	NOUN	_	0	root	_	Translit=julai|LTranslit=_
+3	తొమ్మిది	_	NUM	NUM	NumType=Card	2	flat	_	Translit=tòmmidi|LTranslit=_
+4	.	_	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=_
 
 # sent_id = 723
 # text = ఆవల-ఎల్లుండి అమావాస్య .
@@ -5735,8 +5735,8 @@
 # sent_id = 808
 # text = మహాత్మా గాంధీ మేక పాలు తాగేవాడు .
 # translit = mahātmā gāṁdhī meka pālu tāgevāḍu .
-1	మహాత్మా	_	PROPN	PROPN	_	2	flat	_	Translit=mahātmā|LTranslit=_
-2	గాంధీ	_	PROPN	PROPN	_	5	nsubj	_	Translit=gāṁdhī|LTranslit=_
+1	మహాత్మా	_	PROPN	PROPN	_	5	nsubj	_	Translit=mahātmā|LTranslit=_
+2	గాంధీ	_	PROPN	PROPN	_	1	flat	_	Translit=gāṁdhī|LTranslit=_
 3	మేక	_	NOUN	NOUN	_	4	compound	_	Translit=meka|LTranslit=_
 4	పాలు	_	NOUN	NOUN	_	5	obj	_	Translit=pālu|LTranslit=_
 5	తాగేవాడు	_	VERB	VERB	_	0	root	_	Translit=tāgevāḍu|LTranslit=_
@@ -7633,9 +7633,9 @@
 # translit = vāḷḷu amèrikālo rèṁḍeḷḷa mūḍu-nèlala nālugu rojulu unnāru .
 1	వాళ్ళు	_	PRON	PRON	_	7	nsubj	_	Translit=vāḷḷu|LTranslit=_
 2	అమెరికాలో	_	NOUN	NOUN	_	7	obl	_	Translit=amèrikālo|LTranslit=_
-3	రెండేళ్ళ	_	NOUN	NOUN	_	4	flat	_	Translit=rèṁḍeḷḷa|LTranslit=_
-4	మూడు-నెలల	_	NOUN	NOUN	_	5	flat	_	Translit=mūḍu-nèlala|LTranslit=_
-5	నాలుగు	_	NUM	NUM	NumType=Card	6	nummod	_	Translit=nālugu|LTranslit=_
+3	రెండేళ్ళ	_	NOUN	NOUN	_	6	nummod	_	Translit=rèṁḍeḷḷa|LTranslit=_
+4	మూడు-నెలల	_	NOUN	NOUN	_	3	flat	_	Translit=mūḍu-nèlala|LTranslit=_
+5	నాలుగు	_	NUM	NUM	NumType=Card	3	flat	_	Translit=nālugu|LTranslit=_
 6	రోజులు	_	NOUN	NOUN	_	7	obj	_	Translit=rojulu|LTranslit=_
 7	ఉన్నారు	_	VERB	VERB	_	0	root	_	Translit=unnāru|LTranslit=_
 8	.	_	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=_
@@ -8836,8 +8836,8 @@
 # text = మావాడు రేపు ఈవేళకు వస్తుంటాడు .
 # translit = māvāḍu repu īveḷaku vastuṁṭāḍu .
 1	మావాడు	_	PRON	PRON	_	4	nsubj	_	Translit=māvāḍu|LTranslit=_
-2	రేపు	_	NOUN	NOUN	_	3	flat	_	Translit=repu|LTranslit=_
-3	ఈవేళకు	_	NOUN	NOUN	_	4	obl:tmod	_	Translit=īveḷaku|LTranslit=_
+2	రేపు	_	NOUN	NOUN	_	4	obl:tmod	_	Translit=repu|LTranslit=_
+3	ఈవేళకు	_	NOUN	NOUN	_	2	flat	_	Translit=īveḷaku|LTranslit=_
 4	వస్తుంటాడు	_	VERB	VERB	_	0	root	_	Translit=vastuṁṭāḍu|LTranslit=_
 5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=_
 
