@@ -3,8 +3,8 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Telugu-MTG:
-commit 6e78ab07b835ab84073eeddffb301c794d3530d4
-Merge: 2fde60c 4a16170
+commit c0eedfdb4ea7071aa091206006f761bbad177903
+Merge: 8922e24 91c4c7e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 6465 of 6465 words (nodes).
 Size: min(0, log((N/1000)**2)) = 3.73280602444764.
