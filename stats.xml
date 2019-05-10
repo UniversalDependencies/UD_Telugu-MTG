@@ -6,6 +6,9 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
     <total><sentences>1328</sentences><tokens>6465</tokens><words>6465</words><fused>0</fused></total>
+    <train><sentences>1051</sentences><tokens>5082</tokens><words>5082</words><fused>0</fused></train>
+    <dev><sentences>131</sentences><tokens>662</tokens><words>662</words><fused>0</fused></dev>
+    <test><sentences>146</sentences><tokens>721</tokens><words>721</words><fused>0</fused></test>
   </size>
   <lemmas unique="0" /><!--  -->
   <forms unique="2052" /><!-- ., ?, ,, నేను, !, ఆయన, మీరు, నాకు, రాము, వాడు, ఈ, ఆ, ఇంటికి, లేదు, కమల -->
