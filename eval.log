@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Telugu-MTG:
-commit 7007d5e28f09d9200630e6fcf0e5a339b482bb73
-Merge: 326bf99 c5815df
+commit b139264d94cf3c72fe973054d87408140adba960
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri May 10 21:45:48 2019 +0200
 Size: counted 6465 of 6465 words (nodes).
 Size: min(0, log((N/1000)**2)) = 3.73280602444764.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,10 +25,26 @@ Genres: found 1 out of 17 known.
 validate.py --lang te --max-err=10 UD_Telugu-MTG/te_mtg-ud-dev.conllu
 *** PASSED ***
 validate.py --lang te --max-err=10 UD_Telugu-MTG/te_mtg-ud-test.conllu
-*** PASSED ***
+[Line 297 Sent 322 Node 6]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nsubj'.
+[Line 902 Sent 864 Node 2]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nsubj'.
+Syntax errors: 2
+*** FAILED *** with 2 errors
+Exit code: 1
 validate.py --lang te --max-err=10 UD_Telugu-MTG/te_mtg-ud-train.conllu
-*** PASSED ***
-Validity: 1
+[Line 491 Sent 65 Node 1]: [L3 Syntax rel-upos-punct] 'punct' must be 'PUNCT' but it is 'PRON'
+[Line 979 Sent 134 Node 3]: [L3 Syntax upos-rel-punct] 'PUNCT' must be 'punct' but it is 'nsubj'
+[Line 987 Sent 135 Node 4]: [L3 Syntax upos-rel-punct] 'PUNCT' must be 'punct' but it is 'nsubj'
+[Line 2105 Sent 298 Node 4]: [L3 Syntax rel-upos-punct] 'punct' must be 'PUNCT' but it is 'NOUN'
+[Line 2401 Sent 341 Node 6]: [L3 Syntax upos-rel-punct] 'PUNCT' must be 'punct' but it is 'nsubj'
+[Line 2949 Sent 421 Node 5]: [L3 Syntax upos-rel-punct] 'PUNCT' must be 'punct' but it is 'nsubj'
+[Line 3009 Sent 428 Node 4]: [L3 Syntax upos-rel-punct] 'PUNCT' must be 'punct' but it is 'nsubj'
+[Line 3769 Sent 533 Node 5]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+[Line 3778 Sent 534 Node 3]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+...suppressing further errors regarding Syntax
+Syntax errors: 21
+*** FAILED *** with 21 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.12) = 0.00923076923076923
 (weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
 (weight=0.0769230769230769) * (score{lemmas}=0.01) = 0.000769230769230769
@@ -37,6 +53,6 @@ Validity: 1
 (weight=0.0769230769230769) * (score{tags}=0.823529411764706) = 0.0633484162895928
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.837837837837838) = 0.0644490644490645
-(TOTAL score=0.215191472677717) * (availability=1) * (validity=1) = 0.215191472677717
-STARS = 1
-UD_Telugu-MTG	0.215191472677717	1
+(TOTAL score=0.215191472677717) * (availability=1) * (validity=0.01) = 0.00215191472677717
+STARS = 0
+UD_Telugu-MTG	0.00215191472677717	0
