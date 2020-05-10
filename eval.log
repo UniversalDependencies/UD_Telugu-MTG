@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Telugu-MTG:
-commit b139264d94cf3c72fe973054d87408140adba960
+commit 94f97493a2ec4f5baa962cd1a977e6b321ec43ba
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 10 21:45:48 2019 +0200
+Date:   Tue Nov 12 17:47:54 2019 +0100
 Size: counted 6465 of 6465 words (nodes).
 Size: min(0, log((N/1000)**2)) = 3.73280602444764.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -19,7 +19,7 @@ Features: 92 out of 6465 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
 Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
-Udapi: found 2771 bugs.
+Udapi: found 2772 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 6465 words.
 Genres: found 1 out of 17 known.
 validate.py --lang te --max-err=10 UD_Telugu-MTG/te_mtg-ud-dev.conllu
