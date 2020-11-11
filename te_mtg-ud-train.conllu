@@ -488,7 +488,7 @@
 # sent_id = 65
 # text = మీరు గట్టిగా చెప్పాల్సి వచ్చింది .
 # translit = mīru gaṭṭigā cèppālsi vacciṁdi .
-1	మీరు	_	PRON	PRON	_	4	punct	_	Translit=mīru|LTranslit=_
+1	మీరు	_	PRON	PRON	_	4	nsubj	_	Translit=mīru|LTranslit=_
 2	గట్టిగా	_	ADV	ADV	_	4	advmod	_	Translit=gaṭṭigā|LTranslit=_
 3	చెప్పాల్సి	_	VERB	VERB	_	4	compound:svc	_	Translit=cèppālsi|LTranslit=_
 4	వచ్చింది	_	VERB	VERB	_	0	root	_	Translit=vacciṁdi|LTranslit=_
@@ -976,7 +976,7 @@
 # translit = rāmārāvu maṁcivāḍu .
 1	రామారావు	_	PROPN	PROPN	_	2	nsubj	_	Translit=rāmārāvu|LTranslit=_
 2	మంచివాడు	_	PRON	PRON	_	0	root	_	Translit=maṁcivāḍu|LTranslit=_
-3	.	_	PUNCT	PUNCT	_	2	nsubj	_	Translit=.|LTranslit=_
+3	.	_	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=_
 
 # sent_id = 135
 # text = మనం తెలుగు వాళ్ళం .
@@ -984,7 +984,7 @@
 1	మనం	_	PRON	PRON	_	3	nsubj	_	Translit=manaṁ|LTranslit=_
 2	తెలుగు	_	PROPN	PROPN	_	3	compound	_	Translit=tèlugu|LTranslit=_
 3	వాళ్ళం	_	PRON	PRON	_	0	root	_	Translit=vāḷḷaṁ|LTranslit=_
-4	.	_	PUNCT	PUNCT	_	3	nsubj	_	Translit=.|LTranslit=_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=_
 
 # sent_id = 136
 # text = మనం తెలుగు వాళ్ళం కాము .
@@ -2102,7 +2102,7 @@
 1	ఆయన	_	PRON	PRON	_	3	nsubj	_	Translit=āyana|LTranslit=_
 2	రేపు	_	NOUN	NOUN	_	3	obl:tmod	_	Translit=repu|LTranslit=_
 3	రానిదే	_	VERB	VERB	_	6	advcl	_	Translit=rānide|LTranslit=_
-4	,	_	NOUN	NOUN	_	6	punct	_	Translit=,|LTranslit=_
+4	,	_	PUNCT	PUNCT	_	6	punct	_	Translit=,|LTranslit=_
 5	నేను	_	PRON	PRON	_	6	nsubj	_	Translit=nenu|LTranslit=_
 6	ఉండను	_	VERB	VERB	_	0	root	_	Translit=uṁḍanu|LTranslit=_
 7	.	_	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=_
@@ -2398,7 +2398,7 @@
 3	రేపు	_	NOUN	NOUN	_	4	obl:tmod	_	Translit=repu|LTranslit=_
 4	రమ్మని	_	VERB	VERB	_	5	ccomp	_	Translit=rammani|LTranslit=_
 5	అన్నావు	_	VERB	VERB	_	0	root	_	Translit=annāvu|LTranslit=_
-6	.	_	PUNCT	PUNCT	_	5	nsubj	_	Translit=.|LTranslit=_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=_
 
 # sent_id = 342
 # text = ఆయన నన్ను నీళ్ళు తాగమంటున్నారు .
@@ -2946,7 +2946,7 @@
 2	ఎవరో	_	PRON	PRON	_	4	ccomp	_	Translit=èvaro|LTranslit=_
 3	నాకు	_	PRON	PRON	_	4	nsubj	_	Translit=nāku|LTranslit=_
 4	తెలుసు	_	VERB	VERB	_	0	root	_	Translit=tèlusu|LTranslit=_
-5	.	_	PUNCT	PUNCT	_	4	nsubj	_	Translit=.|LTranslit=_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=_
 
 # sent_id = 422
 # text = మీ పేరు ఏమిటి ?
@@ -3006,7 +3006,7 @@
 1	జేబులు	_	NOUN	NOUN	_	2	nsubj	_	Translit=jebulu|LTranslit=_
 2	కొట్టటం	_	VERB	VERB	_	0	root	_	Translit=kòṭṭaṭaṁ|LTranslit=_
 3	ఎలాగు	_	ADV	ADV	_	2	advmod	_	Translit=èlāgu|LTranslit=_
-4	?	_	PUNCT	PUNCT	_	2	nsubj	_	Translit=?|LTranslit=_
+4	?	_	PUNCT	PUNCT	_	2	punct	_	Translit=?|LTranslit=_
 
 # sent_id = 429
 # text = జేబులు కొట్టటం ఎలాగో వాడికి తెలుసు .
@@ -3766,7 +3766,7 @@
 2	రేపనగా	_	VERB	VERB	_	6	advcl	_	Translit=repanagā|LTranslit=_
 3	కారు	_	NOUN	NOUN	_	6	nsubj	_	Translit=kāru|LTranslit=_
 4	మొదటి	_	ADJ	ADJ	_	5	amod	_	Translit=mòdaṭi|LTranslit=_
-5	సారి	_	NOUN	NOUN	_	6	advmod	_	Translit=sāri|LTranslit=_
+5	సారి	_	ADV	ADV	_	6	advmod	_	Translit=sāri|LTranslit=_
 6	కదిలింది	_	VERB	VERB	_	0	root	_	Translit=kadiliṁdi|LTranslit=_
 7	.	_	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=_
 
@@ -3775,7 +3775,7 @@
 # translit = rèṁḍu mūḍu rojullo suṁdaraṁ kālejī praveśistāḍu anagā ...
 1	రెండు	_	NUM	NUM	NumType=Card	3	nummod	_	Translit=rèṁḍu|LTranslit=_
 2	మూడు	_	NUM	NUM	NumType=Card	3	nummod	_	Translit=mūḍu|LTranslit=_
-3	రోజుల్లో	_	NOUN	NOUN	_	6	advmod	_	Translit=rojullo|LTranslit=_
+3	రోజుల్లో	_	ADV	ADV	_	6	advmod	_	Translit=rojullo|LTranslit=_
 4	సుందరం	_	PROPN	PROPN	_	6	nsubj	_	Translit=suṁdaraṁ|LTranslit=_
 5	కాలేజీ	_	NOUN	NOUN	_	6	obl	_	Translit=kālejī|LTranslit=_
 6	ప్రవేశిస్తాడు	_	VERB	VERB	_	7	ccomp	_	Translit=praveśistāḍu|LTranslit=_
@@ -3831,7 +3831,7 @@
 # translit = āmènu tirigi kṣemaṁgā tallidaṁḍrulaku appagiṁce pūcī nāde gā ?
 1	ఆమెను	_	PRON	PRON	_	5	obj	_	Translit=āmènu|LTranslit=_
 2	తిరిగి	_	VERB	VERB	_	5	dislocated	_	Translit=tirigi|LTranslit=_
-3	క్షేమంగా	_	NOUN	NOUN	_	5	advmod	_	Translit=kṣemaṁgā|LTranslit=_
+3	క్షేమంగా	_	ADV	ADV	_	5	advmod	_	Translit=kṣemaṁgā|LTranslit=_
 4	తల్లిదండ్రులకు	_	NOUN	NOUN	_	5	iobj	_	Translit=tallidaṁḍrulaku|LTranslit=_
 5	అప్పగించే	_	VERB	VERB	_	6	acl	_	Translit=appagiṁce|LTranslit=_
 6	పూచీ	_	NOUN	NOUN	_	7	nsubj	_	Translit=pūcī|LTranslit=_
@@ -3941,18 +3941,18 @@
 # sent_id = 557
 # text = ఇంతలో ఇంటిముందు సైకిల్ రిక్షా ఆగటం , అందులోనుంచి కె. దూకటం , పి. దిగటం జరిగేయి .
 # translit = iṁtalo iṁṭimuṁdu saikil rikṣā āgaṭaṁ , aṁdulonuṁci kè. dūkaṭaṁ , pi. digaṭaṁ jarigeyi .
-1	ఇంతలో	_	ADV	ADV	_	5	advmod	_	Translit=iṁtalo|LTranslit=_
+1	ఇంతలో	_	ADV	ADV	_	13	advmod	_	Translit=iṁtalo|LTranslit=_
 2	ఇంటిముందు	_	NOUN	NOUN	_	5	obl	_	Translit=iṁṭimuṁdu|LTranslit=_
 3	సైకిల్	_	NOUN	NOUN	_	4	compound	_	Translit=saikil|LTranslit=_
 4	రిక్షా	_	NOUN	NOUN	_	5	nsubj	_	Translit=rikṣā|LTranslit=_
-5	ఆగటం	_	VERB	VERB	_	13	csubj	_	Translit=āgaṭaṁ|LTranslit=_
-6	,	_	PUNCT	PUNCT	_	9	punct	_	Translit=,|LTranslit=_
+5	ఆగటం	_	VERB	VERB	_	12	ccomp	_	Translit=āgaṭaṁ|LTranslit=_
+6	,	_	PUNCT	PUNCT	_	5	punct	_	Translit=,|LTranslit=_
 7	అందులోనుంచి	_	NOUN	NOUN	_	9	obl:tmod	_	Translit=aṁdulonuṁci|LTranslit=_
 8	కె.	_	NOUN	NOUN	_	9	nsubj	_	Translit=kè.|LTranslit=_
-9	దూకటం	_	VERB	VERB	_	5	conj	_	Translit=dūkaṭaṁ|LTranslit=_
-10	,	_	PUNCT	PUNCT	_	13	punct	_	Translit=,|LTranslit=_
+9	దూకటం	_	VERB	VERB	_	12	ccomp	_	Translit=dūkaṭaṁ|LTranslit=_
+10	,	_	PUNCT	PUNCT	_	9	punct	_	Translit=,|LTranslit=_
 11	పి.	_	PROPN	PROPN	_	12	nsubj	_	Translit=pi.|LTranslit=_
-12	దిగటం	_	VERB	VERB	_	5	conj	_	Translit=digaṭaṁ|LTranslit=_
+12	దిగటం	_	VERB	VERB	_	13	ccomp	_	Translit=digaṭaṁ|LTranslit=_
 13	జరిగేయి	_	VERB	VERB	_	0	root	_	Translit=jarigeyi|LTranslit=_
 14	.	_	PUNCT	PUNCT	_	13	punct	_	Translit=.|LTranslit=_
 
@@ -5474,7 +5474,7 @@
 2	తిరిగి	_	VERB	VERB	_	4	advcl	_	Translit=tirigi|LTranslit=_
 3	ఇంటికి	_	NOUN	NOUN	_	4	obl	_	Translit=iṁṭiki|LTranslit=_
 4	వచ్చేడు	_	VERB	VERB	_	0	root	_	Translit=vacceḍu|LTranslit=_
-5	.	_	PUNCT	PUNCT	_	4	advcl	_	Translit=.|LTranslit=_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=_
 
 # sent_id = 777
 # text = గడప దాటుతూ దాటుతూ వెనక్కి చూసేడు .
@@ -6073,7 +6073,7 @@
 # translit = rāmū kamalā (iddarū) iṁṭiki vèḷḷeru .
 1	రామూ	_	PROPN	PROPN	_	5	csubj	_	Translit=rāmū|LTranslit=_
 2	కమలా	_	PROPN	PROPN	_	1	conj	_	Translit=kamalā|LTranslit=_
-3	(ఇద్దరూ)	_	NOUN	NOUN	_	1	cc	_	Translit=(iddarū)|LTranslit=_
+3	(ఇద్దరూ)	_	NOUN	NOUN	_	2	orphan	_	Translit=(iddarū)|LTranslit=_
 4	ఇంటికి	_	NOUN	NOUN	_	5	obl	_	Translit=iṁṭiki|LTranslit=_
 5	వెళ్ళేరు	_	VERB	VERB	_	0	root	_	Translit=vèḷḷeru|LTranslit=_
 6	.	_	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=_
@@ -6115,7 +6115,7 @@
 # text = రాము ఇంటికీ , కమల బజారుకూ వెళ్ళేరు .
 # translit = rāmu iṁṭikī , kamala bajārukū vèḷḷeru .
 1	రాము	_	PROPN	PROPN	_	6	nsubj	_	Translit=rāmu|LTranslit=_
-2	ఇంటికీ	_	NOUN	NOUN	_	1	orphan	_	Translit=iṁṭikī|LTranslit=_
+2	ఇంటికీ	_	NOUN	NOUN	_	6	obl	_	Translit=iṁṭikī|LTranslit=_
 3	,	_	PUNCT	PUNCT	_	4	punct	_	Translit=,|LTranslit=_
 4	కమల	_	PROPN	PROPN	_	1	conj	_	Translit=kamala|LTranslit=_
 5	బజారుకూ	_	NOUN	NOUN	_	6	obl	_	Translit=bajārukū|LTranslit=_
@@ -6331,7 +6331,7 @@
 # translit = vāḍu bèdiristāḍu annā nāku bhayaṁ ledu .
 1	వాడు	_	PRON	PRON	_	2	nsubj	_	Translit=vāḍu|LTranslit=_
 2	బెదిరిస్తాడు	_	VERB	VERB	_	6	ccomp	_	Translit=bèdiristāḍu|LTranslit=_
-3	అన్నా	_	NOUN	NOUN	_	2	mark	_	Translit=annā|LTranslit=_
+3	అన్నా	_	PART	PART	_	2	mark	_	Translit=annā|LTranslit=_
 4	నాకు	_	PRON	PRON	_	6	nsubj	_	Translit=nāku|LTranslit=_
 5	భయం	_	NOUN	NOUN	_	6	compound:lvc	_	Translit=bhayaṁ|LTranslit=_
 6	లేదు	_	VERB	VERB	_	0	root	_	Translit=ledu|LTranslit=_
@@ -6368,7 +6368,7 @@
 2	అంటే	_	SCONJ	SCONJ	_	1	nmod	_	Translit=aṁṭe|LTranslit=_
 3	,	_	PUNCT	PUNCT	_	4	punct	_	Translit=,|LTranslit=_
 4	కాసుకో	_	VERB	VERB	_	0	root	_	Translit=kāsuko|LTranslit=_
-5	అంటూ	_	VERB	VERB	_	4	mark	_	Translit=aṁṭū|LTranslit=_
+5	అంటూ	_	PART	PART	_	4	mark	_	Translit=aṁṭū|LTranslit=_
 6	...	_	PUNCT	PUNCT	_	4	punct	_	Translit=...|LTranslit=_
 
 # sent_id = 898
@@ -6717,7 +6717,7 @@
 1	కమలకు	_	PROPN	PROPN	_	3	nsubj:nc	_	Translit=kamalaku|LTranslit=_
 2	కోపంగా	_	ADV	ADV	_	3	advmod	_	Translit=kopaṁgā|LTranslit=_
 3	ఉంది	_	VERB	VERB	_	0	root	_	Translit=uṁdi|LTranslit=_
-4	.	_	PUNCT	PUNCT	_	3	nsubj	_	Translit=.|LTranslit=_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=_
 
 # sent_id = 950
 # text = కమలకు కోపం వచ్చింది .
@@ -7365,7 +7365,7 @@
 # translit = rāmū kamalā (iddarū) vèḷtārā ?
 1	రామూ	_	PROPN	PROPN	_	4	nsubj	_	Translit=rāmū|LTranslit=_
 2	కమలా	_	PROPN	PROPN	_	1	conj	_	Translit=kamalā|LTranslit=_
-3	(ఇద్దరూ)	_	NOUN	NOUN	_	1	cc	_	Translit=(iddarū)|LTranslit=_
+3	(ఇద్దరూ)	_	CCONJ	CCONJ	_	1	cc	_	Translit=(iddarū)|LTranslit=_
 4	వెళ్తారా	_	VERB	VERB	_	0	root	_	Translit=vèḷtārā|LTranslit=_
 5	?	_	PUNCT	PUNCT	_	4	punct	_	Translit=?|LTranslit=_
 
@@ -7485,7 +7485,7 @@
 2	విన్నారా	_	VERB	VERB	_	0	root	_	Translit=vinnārā|LTranslit=_
 3	,	_	PUNCT	PUNCT	_	4	punct	_	Translit=,|LTranslit=_
 4	లేదా	_	VERB	VERB	_	2	conj	_	Translit=ledā|LTranslit=_
-5	?	_	PUNCT	PUNCT	_	4	nsubj	_	Translit=?|LTranslit=_
+5	?	_	PUNCT	PUNCT	_	4	punct	_	Translit=?|LTranslit=_
 
 # sent_id = 1058
 # text = సుబ్బారావు ఇంటికా ఆఫీసుకా వెళ్ళటం ?
@@ -8046,7 +8046,7 @@
 # text = నేను ఒక్కణ్ణే వెళ్ళిపోతాను , చిన్నవాణ్ణి కాదుగా ఇంకా ?
 # translit = nenu òkkaṇṇe vèḷḷipotānu , cinnavāṇṇi kādugā iṁkā ?
 1	నేను	_	PRON	PRON	_	3	nsubj	_	Translit=nenu|LTranslit=_
-2	ఒక్కణ్ణే	_	NOUN	NOUN	_	3	advmod	_	Translit=òkkaṇṇe|LTranslit=_
+2	ఒక్కణ్ణే	_	NOUN	NOUN	_	1	nmod	_	Translit=òkkaṇṇe|LTranslit=_
 3	వెళ్ళిపోతాను	_	VERB	VERB	_	0	root	_	Translit=vèḷḷipotānu|LTranslit=_
 4	,	_	PUNCT	PUNCT	_	6	punct	_	Translit=,|LTranslit=_
 5	చిన్నవాణ్ణి	_	NOUN	NOUN	_	6	obj	_	Translit=cinnavāṇṇi|LTranslit=_
@@ -8265,7 +8265,7 @@
 # translit = ḍākṭarugāru cālā sārlu kòṁḍavīḍu cūseḍaṭa .
 1	డాక్టరుగారు	_	NOUN	NOUN	_	5	nsubj	_	Translit=ḍākṭarugāru|LTranslit=_
 2	చాలా	_	DET	DET	_	3	det	_	Translit=cālā|LTranslit=_
-3	సార్లు	_	NOUN	NOUN	_	5	advmod	_	Translit=sārlu|LTranslit=_
+3	సార్లు	_	ADV	ADV	_	5	advmod	_	Translit=sārlu|LTranslit=_
 4	కొండవీడు	_	PROPN	PROPN	_	5	obj	_	Translit=kòṁḍavīḍu|LTranslit=_
 5	చూసేడట	_	VERB	VERB	_	0	root	_	Translit=cūseḍaṭa|LTranslit=_
 6	.	_	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=_

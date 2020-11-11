@@ -294,7 +294,7 @@
 3	బావులు	_	NOUN	NOUN	_	7	nsubj	_	Translit=bāvulu|LTranslit=_
 4	మా	_	PRON	PRON	_	5	nmod	_	Translit=mā|LTranslit=_
 5	ఊళ్ళో	_	NOUN	NOUN	_	7	obl	_	Translit=ūḷḷo|LTranslit=_
-6	మూడు	_	NUM	NUM	NumType=Card	3	orphan	_	Translit=mūḍu|LTranslit=_
+6	మూడు	_	NUM	NUM	NumType=Card	3	nmod	_	Translit=mūḍu|LTranslit=_
 7	ఉన్నాయి	_	VERB	VERB	_	0	root	_	Translit=unnāyi|LTranslit=_
 8	.	_	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=_
 
@@ -899,7 +899,7 @@
 # text = రాము తొందరగాను కమల మెల్లగాను నడుస్తారు .
 # translit = rāmu tòṁdaragānu kamala mèllagānu naḍustāru .
 1	రాము	_	PROPN	PROPN	_	5	nsubj	_	Translit=rāmu|LTranslit=_
-2	తొందరగాను	_	ADV	ADV	_	1	orphan	_	Translit=tòṁdaragānu|LTranslit=_
+2	తొందరగాను	_	ADV	ADV	_	1	advmod	_	Translit=tòṁdaragānu|LTranslit=_
 3	కమల	_	PROPN	PROPN	_	1	conj	_	Translit=kamala|LTranslit=_
 4	మెల్లగాను	_	ADV	ADV	_	5	advmod	_	Translit=mèllagānu|LTranslit=_
 5	నడుస్తారు	_	VERB	VERB	_	0	root	_	Translit=naḍustāru|LTranslit=_
