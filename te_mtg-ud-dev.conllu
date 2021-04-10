@@ -926,7 +926,7 @@
 # text = ఎందులోనూ నిన్ను మించిన స్త్రీని చూసి నువ్వు ఓర్చ లేవు .
 # translit = èṁdulonū ninnu miṁcina strīni cūsi nuvvu orca levu .
 1	ఎందులోనూ	_	ADV	ADV	_	5	advmod	_	Translit=èṁdulonū|LTranslit=_
-2	నిన్ను	_	PRON	PRON	_	4	nmod:cmp	_	Translit=ninnu|LTranslit=_
+2	నిన్ను	_	PRON	PRON	_	5	obl:cmp	_	Translit=ninnu|LTranslit=_
 3	మించిన	_	ADP	ADP	_	2	case	_	Translit=miṁcina|LTranslit=_
 4	స్త్రీని	_	NOUN	NOUN	_	5	obj	_	Translit=strīni|LTranslit=_
 5	చూసి	_	VERB	VERB	_	8	ccomp	_	Translit=cūsi|LTranslit=_

@@ -50,7 +50,7 @@
 # text = నేను ఆమె కంటె పెద్ద .
 # translit = nenu āmè kaṁṭè pèdda .
 1	నేను	_	PRON	PRON	_	4	nsubj	_	Translit=nenu|LTranslit=_
-2	ఆమె	_	PRON	PRON	_	1	nmod:cmp	_	Translit=āmè|LTranslit=_
+2	ఆమె	_	PRON	PRON	_	4	obl:cmp	_	Translit=āmè|LTranslit=_
 3	కంటె	_	ADP	ADP	_	2	case	_	Translit=kaṁṭè|LTranslit=_
 4	పెద్ద	_	NOUN	NOUN	_	0	root	_	Translit=pèdda|LTranslit=_
 5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=_
@@ -1018,7 +1018,7 @@
 # text = ఇది నా కన్నా ఎక్కువ ఎవరికి తెలుసు ?
 # translit = idi nā kannā èkkuva èvariki tèlusu ?
 1	ఇది	_	PRON	PRON	_	6	obj	_	Translit=idi|LTranslit=_
-2	నా	_	PRON	PRON	_	5	nmod:cmp	_	Translit=nā|LTranslit=_
+2	నా	_	PRON	PRON	_	6	obl:cmp	_	Translit=nā|LTranslit=_
 3	కన్నా	_	ADP	ADP	_	2	case	_	Translit=kannā|LTranslit=_
 4	ఎక్కువ	_	NOUN	NOUN	_	2	clf	_	Translit=èkkuva|LTranslit=_
 5	ఎవరికి	_	PRON	PRON	_	6	nsubj:nc	_	Translit=èvariki|LTranslit=_
