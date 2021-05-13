@@ -387,7 +387,7 @@
 # text = ఆమె నాకంటే చిన్న .
 # translit = āmè nākaṁṭe cinna .
 1	ఆమె	_	PRON	PRON	_	3	nsubj	_	Translit=āmè|LTranslit=_
-2	నాకంటే	_	PRON	PRON	_	1	nmod:cmp	_	Translit=nākaṁṭe|LTranslit=_
+2	నాకంటే	_	PRON	PRON	_	3	obl:cmp	_	Translit=nākaṁṭe|LTranslit=_
 3	చిన్న	_	NOUN	NOUN	_	0	root	_	Translit=cinna|LTranslit=_
 4	.	_	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=_
 
@@ -1172,7 +1172,7 @@
 # text = కమల విమల కంటె తెలుపా ?
 # translit = kamala vimala kaṁṭè tèlupā ?
 1	కమల	_	PROPN	PROPN	_	4	nsubj	_	Translit=kamala|LTranslit=_
-2	విమల	_	PROPN	PROPN	_	1	nmod:cmp	_	Translit=vimala|LTranslit=_
+2	విమల	_	PROPN	PROPN	_	4	obl:cmp	_	Translit=vimala|LTranslit=_
 3	కంటె	_	ADP	ADP	_	2	case	_	Translit=kaṁṭè|LTranslit=_
 4	తెలుపా	_	NOUN	NOUN	_	0	root	_	Translit=tèlupā|LTranslit=_
 5	?	_	PUNCT	PUNCT	_	4	punct	_	Translit=?|LTranslit=_
@@ -1181,7 +1181,7 @@
 # text = కమల విమల కంటె నలుపా ?
 # translit = kamala vimala kaṁṭè nalupā ?
 1	కమల	_	PROPN	PROPN	_	4	nsubj	_	Translit=kamala|LTranslit=_
-2	విమల	_	PROPN	PROPN	_	1	nmod:cmp	_	Translit=vimala|LTranslit=_
+2	విమల	_	PROPN	PROPN	_	4	obl:cmp	_	Translit=vimala|LTranslit=_
 3	కంటె	_	ADP	ADP	_	2	case	_	Translit=kaṁṭè|LTranslit=_
 4	నలుపా	_	NOUN	NOUN	_	0	root	_	Translit=nalupā|LTranslit=_
 5	?	_	PUNCT	PUNCT	_	4	punct	_	Translit=?|LTranslit=_
@@ -1190,7 +1190,7 @@
 # text = కమల విమల కంటె తెలుపా నలుపా ?
 # translit = kamala vimala kaṁṭè tèlupā nalupā ?
 1	కమల	_	PROPN	PROPN	_	4	nsubj	_	Translit=kamala|LTranslit=_
-2	విమల	_	PROPN	PROPN	_	1	nmod:cmp	_	Translit=vimala|LTranslit=_
+2	విమల	_	PROPN	PROPN	_	4	obl:cmp	_	Translit=vimala|LTranslit=_
 3	కంటె	_	ADP	ADP	_	2	case	_	Translit=kaṁṭè|LTranslit=_
 4	తెలుపా	_	NOUN	NOUN	_	0	root	_	Translit=tèlupā|LTranslit=_
 5	నలుపా	_	NOUN	NOUN	_	4	conj	_	Translit=nalupā|LTranslit=_
@@ -6831,7 +6831,7 @@
 # text = రాము కమల కంటె పొడుగు .
 # translit = rāmu kamala kaṁṭè pòḍugu .
 1	రాము	_	PROPN	PROPN	_	4	nsubj	_	Translit=rāmu|LTranslit=_
-2	కమల	_	PROPN	PROPN	_	1	nmod:cmp	_	Translit=kamala|LTranslit=_
+2	కమల	_	PROPN	PROPN	_	4	obl:cmp	_	Translit=kamala|LTranslit=_
 3	కంటె	_	ADP	ADP	_	2	case	_	Translit=kaṁṭè|LTranslit=_
 4	పొడుగు	_	NOUN	NOUN	_	0	root	_	Translit=pòḍugu|LTranslit=_
 5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=_

@@ -62,7 +62,6 @@
     <dep name="list">2</dep>
     <dep name="mark">59</dep>
     <dep name="nmod">63</dep>
-    <dep name="nmod:cmp">8</dep>
     <dep name="nmod:poss">153</dep>
     <dep name="nmod:tmod">10</dep>
     <dep name="nsubj">1090</dep>
@@ -71,6 +70,7 @@
     <dep name="obj">481</dep>
     <dep name="obl">305</dep>
     <dep name="obl:cau">3</dep>
+    <dep name="obl:cmp">8</dep>
     <dep name="obl:tmod">109</dep>
     <dep name="orphan">4</dep>
     <dep name="parataxis">28</dep>
