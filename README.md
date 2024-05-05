@@ -25,6 +25,8 @@ POS tags: 14
 
 # Changelog
 
+* 2024-05-15 v2.14
+  * Modified transliteration scheme: short vs. long "e" and "o".
 * 2021-05-15 v2.8
   * The relations 'nmod:cmp' were re-attached from the compared nominal to the compared property or action, and renamed to 'obl:cmp', in accord with the universal guidelines.
 * 2018-04-15 v2.2
