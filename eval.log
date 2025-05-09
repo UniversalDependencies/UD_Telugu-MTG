@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Telugu-MTG:
-commit 4b03433205b3a85c72b523d17d8f142ed707657a
+commit 6b7f365ed41bce6519a75b817ea6044fda1f66ea
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 13:34:41 2024 +0200
+Date:   Mon Nov 11 16:44:21 2024 +0100
 Size: counted 6465 of 6465 words (nodes).
 Size: min(0, log((N/1000)**2)) = 3.73280602444764.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,10 +20,10 @@ Features: source of annotation (from README) factor is 0.4.
 Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL       2753
-Udapi: found 2753 bugs.
+               TOTAL       2735
+Udapi: found 2735 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 6465 words.
-Genres: found 1 out of 17 known.
+Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang te --max-err=10 UD_Telugu-MTG/te_mtg-ud-dev.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang te --max-err=10 UD_Telugu-MTG/te_mtg-ud-test.conllu
@@ -32,13 +32,13 @@ Genres: found 1 out of 17 known.
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.12) = 0.00923076923076923
-(weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
+(weight=0.0769230769230769) * (score{genres}=0.0555555555555556) = 0.00427350427350427
 (weight=0.0769230769230769) * (score{lemmas}=0.01) = 0.000769230769230769
 (weight=0.256410256410256) * (score{size}=0.270189509738804) = 0.0692793614714883
 (weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.823529411764706) = 0.0633484162895928
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.837837837837838) = 0.0644490644490645
-(TOTAL score=0.215191472677717) * (availability=1) * (validity=1) = 0.215191472677717
+(TOTAL score=0.214940090073393) * (availability=1) * (validity=1) = 0.214940090073393
 STARS = 1
-UD_Telugu-MTG	0.215191472677717	1
+UD_Telugu-MTG	0.214940090073393	1
