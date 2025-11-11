@@ -35,6 +35,7 @@ POS tags: 14
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.1
 Includes text: yes
+Parallel: no
 License: CC BY-SA 4.0
 Genre: grammar-examples
 Lemmas: manual native
