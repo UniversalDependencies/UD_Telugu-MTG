@@ -1,11 +1,15 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
+Date:   Fri Nov 7 15:39:58 2025 +0100
 Evaluating the following revision of UD_Telugu-MTG:
-commit 6b7f365ed41bce6519a75b817ea6044fda1f66ea
+commit e47667f91da2e69ec9c9c69a7c3ad0c760f647ed
+Merge: fea14d1 dd28f1d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 11 16:44:21 2024 +0100
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'te_mtg'
+Language code (from CoNLL-U file name) = 'te'
+Found the following data files: te_mtg-ud-dev.conllu, te_mtg-ud-test.conllu, te_mtg-ud-train.conllu
 Size: counted 6465 of 6465 words (nodes).
 Size: min(0, log((N/1000)**2)) = 3.73280602444764.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -19,26 +23,64 @@ Features: 92 out of 6465 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
 Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
-Udapi:
-               TOTAL       2735
-Udapi: found 2735 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 6465 words.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang te --max-err=10 UD_Telugu-MTG/te_mtg-ud-dev.conllu
+[Line 4 Sent 54]: [L3 Warning pron-det-without-prontype] The word 'మనం manaṁ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 13 Sent 59]: [L3 Warning pron-det-without-prontype] The word 'నువ్వు nuvvu' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 21 Sent 64]: [L3 Warning pron-det-without-prontype] The word 'నేను nēnu' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 22 Sent 64]: [L3 Warning pron-det-without-prontype] The word 'ఆ ā' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 31 Sent 68]: [L3 Warning pron-det-without-prontype] The word 'మీ mī' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 34 Sent 68]: [L3 Warning pron-det-without-prontype] The word 'ఏమిటి ēmiṭi' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 40 Sent 69]: [L3 Warning pron-det-without-prontype] The word 'అవి avi' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 41 Sent 69]: [L3 Warning pron-det-without-prontype] The word 'మా mā' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 49 Sent 72]: [L3 Warning pron-det-without-prontype] The word 'ఇది idi' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 58 Sent 79]: [L3 Warning pron-det-without-prontype] The word 'ఆమె āme' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further errors regarding Warning
+Warnings: 135
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang te --max-err=10 UD_Telugu-MTG/te_mtg-ud-test.conllu
-*** PASSED ***
+[Line 24 Sent 20]: [L3 Warning pron-det-without-prontype] The word 'మీరో mīrō' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 25 Sent 20]: [L3 Warning pron-det-without-prontype] The word 'నేనో nēnō' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 26 Sent 20]: [L3 Warning pron-det-without-prontype] The word 'ఈ ī' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 34 Sent 33]: [L3 Warning pron-det-without-prontype] The word 'అంత aṁta' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 43 Sent 47]: [L3 Warning pron-det-without-prontype] The word 'వాడు vāḍu' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 52 Sent 49]: [L3 Warning pron-det-without-prontype] The word 'నేను nēnu' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 53 Sent 49]: [L3 Warning pron-det-without-prontype] The word 'ఆమె āme' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 61 Sent 57]: [L3 Warning pron-det-without-prontype] The word 'మనం manaṁ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 70 Sent 88]: [L3 Warning pron-det-without-prontype] The word 'ఆయన āyana' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 79 Sent 102]: [L3 Warning pron-det-without-prontype] The word 'నేను nēnu' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further errors regarding Warning
+[Line 326 Sent 355]: [L3 Syntax too-many-objects] Multiple direct objects [2, 3] ('కమలకు kamalaku', 'పుస్తకం pustakaṁ') under the predicate 'ఇచ్చింది icciṁdi'.
+Syntax errors: 1
+Warnings: 140
+*** FAILED *** with 1 errors
+Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang te --max-err=10 UD_Telugu-MTG/te_mtg-ud-train.conllu
-*** PASSED ***
-Validity: 1
-(weight=0.0769230769230769) * (score{features}=0.12) = 0.00923076923076923
-(weight=0.0769230769230769) * (score{genres}=0.0555555555555556) = 0.00427350427350427
-(weight=0.0769230769230769) * (score{lemmas}=0.01) = 0.000769230769230769
-(weight=0.256410256410256) * (score{size}=0.270189509738804) = 0.0692793614714883
-(weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
-(weight=0.0769230769230769) * (score{tags}=0.823529411764706) = 0.0633484162895928
-(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.837837837837838) = 0.0644490644490645
-(TOTAL score=0.214940090073393) * (availability=1) * (validity=1) = 0.214940090073393
-STARS = 1
-UD_Telugu-MTG	0.214940090073393	1
+[Line 18 Sent 5]: [L3 Warning pron-det-without-prontype] The word 'ఎప్పుడోయ్ eppuḍōy' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 27 Sent 6]: [L3 Warning pron-det-without-prontype] The word 'ఎందుకయ్యా eṁdukayyā' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 28 Sent 6]: [L3 Warning pron-det-without-prontype] The word 'ఈ ī' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 43 Sent 8]: [L3 Warning pron-det-without-prontype] The word 'నీ nī' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 60 Sent 10]: [L3 Warning pron-det-without-prontype] The word 'మీ mī' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 75 Sent 12]: [L3 Warning pron-det-without-prontype] The word 'ఈ ī' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 84 Sent 13]: [L3 Warning pron-det-without-prontype] The word 'వాణ్ణి vāṇṇi' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 129 Sent 18]: [L3 Warning pron-det-without-prontype] The word 'మీరు mīru' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 130 Sent 18]: [L3 Warning pron-det-without-prontype] The word 'ఈ ī' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 138 Sent 19]: [L3 Warning pron-det-without-prontype] The word 'నేను nēnu' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further errors regarding Warning
+[Line 808 Sent 110]: [L3 Syntax too-many-objects] Multiple direct objects [1, 4] ('ఆయన్ని āyanni', 'నన్ను nannu') under the predicate 'పిలవండి pilavaṁḍi'.
+[Line 2409 Sent 342]: [L3 Syntax too-many-objects] Multiple direct objects [2, 3] ('నన్ను nannu', 'నీళ్ళు nīḷḷu') under the predicate 'తాగమంటున్నారు tāgamaṁṭunnāru'.
+Syntax errors: 2
+Warnings: 993
+*** FAILED *** with 2 errors
+Exit code: 1
+Validity: 0.01
+(weight=0.111111111111111) * (score{features}=0.12) = 0.0133333333333333
+(weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
+(weight=0.111111111111111) * (score{lemmas}=0.01) = 0.00111111111111111
+(weight=0.37037037037037) * (score{size}=0.270189509738804) = 0.10007018879215
+(weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
+(weight=0.111111111111111) * (score{tags}=0.823529411764706) = 0.0915032679738562
+(weight=0.111111111111111) * (score{udeprels}=0.837837837837838) = 0.0930930930930931
+(TOTAL score=0.306024574550457) * (availability=1) * (validity=0.01) = 0.00306024574550457
+STARS = 0
+UD_Telugu-MTG	0.00306024574550457	0
