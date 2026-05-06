@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Telugu-MTG:
-commit e47667f91da2e69ec9c9c69a7c3ad0c760f647ed
-Merge: fea14d1 dd28f1d
+commit c5dc213480782d947abefbb77ff262e22d1c469b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 20:55:54 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'te_mtg'
 Language code (from CoNLL-U file name) = 'te'
@@ -25,52 +25,52 @@ Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang te --max-err=10 UD_Telugu-MTG/te_mtg-ud-dev.conllu
-[Line 4 Sent 54]: [L3 Warning pron-det-without-prontype] The word 'మనం manaṁ' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 13 Sent 59]: [L3 Warning pron-det-without-prontype] The word 'నువ్వు nuvvu' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 21 Sent 64]: [L3 Warning pron-det-without-prontype] The word 'నేను nēnu' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 22 Sent 64]: [L3 Warning pron-det-without-prontype] The word 'ఆ ā' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 31 Sent 68]: [L3 Warning pron-det-without-prontype] The word 'మీ mī' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 34 Sent 68]: [L3 Warning pron-det-without-prontype] The word 'ఏమిటి ēmiṭi' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 40 Sent 69]: [L3 Warning pron-det-without-prontype] The word 'అవి avi' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 41 Sent 69]: [L3 Warning pron-det-without-prontype] The word 'మా mā' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 49 Sent 72]: [L3 Warning pron-det-without-prontype] The word 'ఇది idi' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 58 Sent 79]: [L3 Warning pron-det-without-prontype] The word 'ఆమె āme' is tagged 'PRON' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
+[Line 4 Sent 54]: [L3 WARNING pron-det-without-prontype] The word 'మనం manaṁ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 13 Sent 59]: [L3 WARNING pron-det-without-prontype] The word 'నువ్వు nuvvu' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 21 Sent 64]: [L3 WARNING pron-det-without-prontype] The word 'నేను nēnu' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 22 Sent 64]: [L3 WARNING pron-det-without-prontype] The word 'ఆ ā' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 31 Sent 68]: [L3 WARNING pron-det-without-prontype] The word 'మీ mī' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 34 Sent 68]: [L3 WARNING pron-det-without-prontype] The word 'ఏమిటి ēmiṭi' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 40 Sent 69]: [L3 WARNING pron-det-without-prontype] The word 'అవి avi' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 41 Sent 69]: [L3 WARNING pron-det-without-prontype] The word 'మా mā' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 49 Sent 72]: [L3 WARNING pron-det-without-prontype] The word 'ఇది idi' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 58 Sent 79]: [L3 WARNING pron-det-without-prontype] The word 'ఆమె āme' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
 Warnings: 135
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang te --max-err=10 UD_Telugu-MTG/te_mtg-ud-test.conllu
-[Line 24 Sent 20]: [L3 Warning pron-det-without-prontype] The word 'మీరో mīrō' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 25 Sent 20]: [L3 Warning pron-det-without-prontype] The word 'నేనో nēnō' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 26 Sent 20]: [L3 Warning pron-det-without-prontype] The word 'ఈ ī' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 34 Sent 33]: [L3 Warning pron-det-without-prontype] The word 'అంత aṁta' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 43 Sent 47]: [L3 Warning pron-det-without-prontype] The word 'వాడు vāḍu' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 52 Sent 49]: [L3 Warning pron-det-without-prontype] The word 'నేను nēnu' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 53 Sent 49]: [L3 Warning pron-det-without-prontype] The word 'ఆమె āme' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 61 Sent 57]: [L3 Warning pron-det-without-prontype] The word 'మనం manaṁ' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 70 Sent 88]: [L3 Warning pron-det-without-prontype] The word 'ఆయన āyana' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 79 Sent 102]: [L3 Warning pron-det-without-prontype] The word 'నేను nēnu' is tagged 'PRON' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-[Line 326 Sent 355]: [L3 Syntax too-many-objects] Multiple direct objects [2, 3] ('కమలకు kamalaku', 'పుస్తకం pustakaṁ') under the predicate 'ఇచ్చింది icciṁdi'.
-Syntax errors: 1
+[Line 24 Sent 20]: [L3 WARNING pron-det-without-prontype] The word 'మీరో mīrō' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 25 Sent 20]: [L3 WARNING pron-det-without-prontype] The word 'నేనో nēnō' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 26 Sent 20]: [L3 WARNING pron-det-without-prontype] The word 'ఈ ī' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 34 Sent 33]: [L3 WARNING pron-det-without-prontype] The word 'అంత aṁta' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 43 Sent 47]: [L3 WARNING pron-det-without-prontype] The word 'వాడు vāḍu' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 52 Sent 49]: [L3 WARNING pron-det-without-prontype] The word 'నేను nēnu' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 53 Sent 49]: [L3 WARNING pron-det-without-prontype] The word 'ఆమె āme' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 61 Sent 57]: [L3 WARNING pron-det-without-prontype] The word 'మనం manaṁ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 70 Sent 88]: [L3 WARNING pron-det-without-prontype] The word 'ఆయన āyana' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 79 Sent 102]: [L3 WARNING pron-det-without-prontype] The word 'నేను nēnu' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 326 Sent 355]: [L3 SYNTAX too-many-objects] Multiple direct objects [2, 3] ('కమలకు kamalaku', 'పుస్తకం pustakaṁ') under the predicate 'ఇచ్చింది icciṁdi'.
 Warnings: 140
+SYNTAX errors: 1
 *** FAILED *** with 1 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang te --max-err=10 UD_Telugu-MTG/te_mtg-ud-train.conllu
-[Line 18 Sent 5]: [L3 Warning pron-det-without-prontype] The word 'ఎప్పుడోయ్ eppuḍōy' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 27 Sent 6]: [L3 Warning pron-det-without-prontype] The word 'ఎందుకయ్యా eṁdukayyā' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 28 Sent 6]: [L3 Warning pron-det-without-prontype] The word 'ఈ ī' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 43 Sent 8]: [L3 Warning pron-det-without-prontype] The word 'నీ nī' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 60 Sent 10]: [L3 Warning pron-det-without-prontype] The word 'మీ mī' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 75 Sent 12]: [L3 Warning pron-det-without-prontype] The word 'ఈ ī' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 84 Sent 13]: [L3 Warning pron-det-without-prontype] The word 'వాణ్ణి vāṇṇi' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 129 Sent 18]: [L3 Warning pron-det-without-prontype] The word 'మీరు mīru' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 130 Sent 18]: [L3 Warning pron-det-without-prontype] The word 'ఈ ī' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 138 Sent 19]: [L3 Warning pron-det-without-prontype] The word 'నేను nēnu' is tagged 'PRON' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-[Line 808 Sent 110]: [L3 Syntax too-many-objects] Multiple direct objects [1, 4] ('ఆయన్ని āyanni', 'నన్ను nannu') under the predicate 'పిలవండి pilavaṁḍi'.
-[Line 2409 Sent 342]: [L3 Syntax too-many-objects] Multiple direct objects [2, 3] ('నన్ను nannu', 'నీళ్ళు nīḷḷu') under the predicate 'తాగమంటున్నారు tāgamaṁṭunnāru'.
-Syntax errors: 2
+[Line 18 Sent 5]: [L3 WARNING pron-det-without-prontype] The word 'ఎప్పుడోయ్ eppuḍōy' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 27 Sent 6]: [L3 WARNING pron-det-without-prontype] The word 'ఎందుకయ్యా eṁdukayyā' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 28 Sent 6]: [L3 WARNING pron-det-without-prontype] The word 'ఈ ī' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 43 Sent 8]: [L3 WARNING pron-det-without-prontype] The word 'నీ nī' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 60 Sent 10]: [L3 WARNING pron-det-without-prontype] The word 'మీ mī' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 75 Sent 12]: [L3 WARNING pron-det-without-prontype] The word 'ఈ ī' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 84 Sent 13]: [L3 WARNING pron-det-without-prontype] The word 'వాణ్ణి vāṇṇi' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 129 Sent 18]: [L3 WARNING pron-det-without-prontype] The word 'మీరు mīru' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 130 Sent 18]: [L3 WARNING pron-det-without-prontype] The word 'ఈ ī' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 138 Sent 19]: [L3 WARNING pron-det-without-prontype] The word 'నేను nēnu' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 808 Sent 110]: [L3 SYNTAX too-many-objects] Multiple direct objects [1, 4] ('ఆయన్ని āyanni', 'నన్ను nannu') under the predicate 'పిలవండి pilavaṁḍi'.
+[Line 2409 Sent 342]: [L3 SYNTAX too-many-objects] Multiple direct objects [2, 3] ('నన్ను nannu', 'నీళ్ళు nīḷḷu') under the predicate 'తాగమంటున్నారు tāgamaṁṭunnāru'.
 Warnings: 993
+SYNTAX errors: 2
 *** FAILED *** with 2 errors
 Exit code: 1
 Validity: 0.01
